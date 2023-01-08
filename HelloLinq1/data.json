@@ -1,0 +1,8002 @@
+﻿[
+  {
+    "id": 1,
+    "car_make": "Audi",
+    "car_models": "TT",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 353
+  },
+  {
+    "id": 2,
+    "car_make": "Isuzu",
+    "car_models": "i-Series",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 192
+  },
+  {
+    "id": 3,
+    "car_make": "Mazda",
+    "car_models": "MX-6",
+    "car_year": 1988,
+    "number_of_doors": 3,
+    "hp": 172
+  },
+  {
+    "id": 4,
+    "car_make": "Pontiac",
+    "car_models": "Bonneville",
+    "car_year": 1989,
+    "number_of_doors": 4,
+    "hp": 389
+  },
+  {
+    "id": 5,
+    "car_make": "Nissan",
+    "car_models": "Titan",
+    "car_year": 2005,
+    "number_of_doors": 4,
+    "hp": 120
+  },
+  {
+    "id": 6,
+    "car_make": "Chrysler",
+    "car_models": "300M",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 150
+  },
+  {
+    "id": 7,
+    "car_make": "Suzuki",
+    "car_models": "Equator",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 380
+  },
+  {
+    "id": 8,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 397
+  },
+  {
+    "id": 9,
+    "car_make": "BMW",
+    "car_models": "Z4",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 184
+  },
+  {
+    "id": 10,
+    "car_make": "Infiniti",
+    "car_models": "QX",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 50
+  },
+  {
+    "id": 11,
+    "car_make": "Chrysler",
+    "car_models": "Sebring",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 156
+  },
+  {
+    "id": 12,
+    "car_make": "Mercury",
+    "car_models": "Cougar",
+    "car_year": 1988,
+    "number_of_doors": 2,
+    "hp": 249
+  },
+  {
+    "id": 13,
+    "car_make": "Plymouth",
+    "car_models": "Voyager",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 165
+  },
+  {
+    "id": 14,
+    "car_make": "Ford",
+    "car_models": "Ranger",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 446
+  },
+  {
+    "id": 15,
+    "car_make": "Mercedes-Benz",
+    "car_models": "CL65 AMG",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 445
+  },
+  {
+    "id": 16,
+    "car_make": "Lexus",
+    "car_models": "RX",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 158
+  },
+  {
+    "id": 17,
+    "car_make": "Volvo",
+    "car_models": "C70",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 192
+  },
+  {
+    "id": 18,
+    "car_make": "Mercury",
+    "car_models": "Sable",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 351
+  },
+  {
+    "id": 19,
+    "car_make": "GMC",
+    "car_models": "Savana 1500",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 438
+  },
+  {
+    "id": 20,
+    "car_make": "Infiniti",
+    "car_models": "Q",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 56
+  },
+  {
+    "id": 21,
+    "car_make": "Toyota",
+    "car_models": "Tacoma",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 233
+  },
+  {
+    "id": 22,
+    "car_make": "Chevrolet",
+    "car_models": "Express 1500",
+    "car_year": 1996,
+    "number_of_doors": 5,
+    "hp": 283
+  },
+  {
+    "id": 23,
+    "car_make": "Kia",
+    "car_models": "Rio",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 395
+  },
+  {
+    "id": 24,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SLK-Class",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 326
+  },
+  {
+    "id": 25,
+    "car_make": "Scion",
+    "car_models": "FR-S",
+    "car_year": 2013,
+    "number_of_doors": 3,
+    "hp": 454
+  },
+  {
+    "id": 26,
+    "car_make": "Toyota",
+    "car_models": "Camry Solara",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 264
+  },
+  {
+    "id": 27,
+    "car_make": "Mercury",
+    "car_models": "Topaz",
+    "car_year": 1988,
+    "number_of_doors": 3,
+    "hp": 137
+  },
+  {
+    "id": 28,
+    "car_make": "Porsche",
+    "car_models": "944",
+    "car_year": 1986,
+    "number_of_doors": 4,
+    "hp": 118
+  },
+  {
+    "id": 29,
+    "car_make": "Lexus",
+    "car_models": "LS",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 76
+  },
+  {
+    "id": 30,
+    "car_make": "Buick",
+    "car_models": "Century",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 406
+  },
+  {
+    "id": 31,
+    "car_make": "Volkswagen",
+    "car_models": "Fox",
+    "car_year": 1991,
+    "number_of_doors": 4,
+    "hp": 332
+  },
+  {
+    "id": 32,
+    "car_make": "Plymouth",
+    "car_models": "Roadrunner",
+    "car_year": 1969,
+    "number_of_doors": 4,
+    "hp": 107
+  },
+  {
+    "id": 33,
+    "car_make": "Mitsubishi",
+    "car_models": "3000GT",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 317
+  },
+  {
+    "id": 34,
+    "car_make": "Dodge",
+    "car_models": "Nitro",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 95
+  },
+  {
+    "id": 35,
+    "car_make": "Toyota",
+    "car_models": "Avalon",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 284
+  },
+  {
+    "id": 36,
+    "car_make": "Ford",
+    "car_models": "Mustang",
+    "car_year": 2013,
+    "number_of_doors": 3,
+    "hp": 335
+  },
+  {
+    "id": 37,
+    "car_make": "Lexus",
+    "car_models": "RX",
+    "car_year": 1999,
+    "number_of_doors": 2,
+    "hp": 395
+  },
+  {
+    "id": 38,
+    "car_make": "Infiniti",
+    "car_models": "Q",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 55
+  },
+  {
+    "id": 39,
+    "car_make": "Oldsmobile",
+    "car_models": "Bravada",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 247
+  },
+  {
+    "id": 40,
+    "car_make": "Lincoln",
+    "car_models": "Town Car",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 359
+  },
+  {
+    "id": 41,
+    "car_make": "Mercedes-Benz",
+    "car_models": "S-Class",
+    "car_year": 1989,
+    "number_of_doors": 2,
+    "hp": 284
+  },
+  {
+    "id": 42,
+    "car_make": "Dodge",
+    "car_models": "D150",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 353
+  },
+  {
+    "id": 43,
+    "car_make": "Subaru",
+    "car_models": "Impreza",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 300
+  },
+  {
+    "id": 44,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 335
+  },
+  {
+    "id": 45,
+    "car_make": "Subaru",
+    "car_models": "Impreza",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 369
+  },
+  {
+    "id": 46,
+    "car_make": "Mitsubishi",
+    "car_models": "Cordia",
+    "car_year": 1986,
+    "number_of_doors": 2,
+    "hp": 438
+  },
+  {
+    "id": 47,
+    "car_make": "Dodge",
+    "car_models": "Ram 1500",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 411
+  },
+  {
+    "id": 48,
+    "car_make": "Dodge",
+    "car_models": "Colt",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 64
+  },
+  {
+    "id": 49,
+    "car_make": "Mazda",
+    "car_models": "Navajo",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 309
+  },
+  {
+    "id": 50,
+    "car_make": "GMC",
+    "car_models": "Terrain",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 299
+  },
+  {
+    "id": 51,
+    "car_make": "Porsche",
+    "car_models": "Cayenne",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 433
+  },
+  {
+    "id": 52,
+    "car_make": "Lexus",
+    "car_models": "ES",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 491
+  },
+  {
+    "id": 53,
+    "car_make": "Maybach",
+    "car_models": "62",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 464
+  },
+  {
+    "id": 54,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SL-Class",
+    "car_year": 1988,
+    "number_of_doors": 5,
+    "hp": 276
+  },
+  {
+    "id": 55,
+    "car_make": "Pontiac",
+    "car_models": "Firebird",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 379
+  },
+  {
+    "id": 56,
+    "car_make": "Pontiac",
+    "car_models": "Bonneville",
+    "car_year": 1966,
+    "number_of_doors": 5,
+    "hp": 165
+  },
+  {
+    "id": 57,
+    "car_make": "Nissan",
+    "car_models": "Maxima",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 181
+  },
+  {
+    "id": 58,
+    "car_make": "Mazda",
+    "car_models": "Navajo",
+    "car_year": 1994,
+    "number_of_doors": 3,
+    "hp": 334
+  },
+  {
+    "id": 59,
+    "car_make": "BMW",
+    "car_models": "5 Series",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 392
+  },
+  {
+    "id": 60,
+    "car_make": "GMC",
+    "car_models": "Yukon",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 319
+  },
+  {
+    "id": 61,
+    "car_make": "Honda",
+    "car_models": "Accord",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 433
+  },
+  {
+    "id": 62,
+    "car_make": "Pontiac",
+    "car_models": "Firebird",
+    "car_year": 1992,
+    "number_of_doors": 4,
+    "hp": 282
+  },
+  {
+    "id": 63,
+    "car_make": "GMC",
+    "car_models": "Savana 2500",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 109
+  },
+  {
+    "id": 64,
+    "car_make": "Nissan",
+    "car_models": "Frontier",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 123
+  },
+  {
+    "id": 65,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SL-Class",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 280
+  },
+  {
+    "id": 66,
+    "car_make": "Chevrolet",
+    "car_models": "Express 3500",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 68
+  },
+  {
+    "id": 67,
+    "car_make": "Daewoo",
+    "car_models": "Nubira",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 246
+  },
+  {
+    "id": 68,
+    "car_make": "Kia",
+    "car_models": "Carens",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 245
+  },
+  {
+    "id": 69,
+    "car_make": "Pontiac",
+    "car_models": "Bonneville",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 63
+  },
+  {
+    "id": 70,
+    "car_make": "Chrysler",
+    "car_models": "Sebring",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 124
+  },
+  {
+    "id": 71,
+    "car_make": "Suzuki",
+    "car_models": "Daewoo Lacetti",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 452
+  },
+  {
+    "id": 72,
+    "car_make": "Dodge",
+    "car_models": "Challenger",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 156
+  },
+  {
+    "id": 73,
+    "car_make": "Dodge",
+    "car_models": "Grand Caravan",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 210
+  },
+  {
+    "id": 74,
+    "car_make": "Lincoln",
+    "car_models": "Continental",
+    "car_year": 1987,
+    "number_of_doors": 2,
+    "hp": 295
+  },
+  {
+    "id": 75,
+    "car_make": "Mercury",
+    "car_models": "Grand Marquis",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 75
+  },
+  {
+    "id": 76,
+    "car_make": "Infiniti",
+    "car_models": "G35",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 142
+  },
+  {
+    "id": 77,
+    "car_make": "Hyundai",
+    "car_models": "Azera",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 190
+  },
+  {
+    "id": 78,
+    "car_make": "Chrysler",
+    "car_models": "Town & Country",
+    "car_year": 1995,
+    "number_of_doors": 3,
+    "hp": 459
+  },
+  {
+    "id": 79,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 382
+  },
+  {
+    "id": 80,
+    "car_make": "Infiniti",
+    "car_models": "J",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 357
+  },
+  {
+    "id": 81,
+    "car_make": "Saab",
+    "car_models": "900",
+    "car_year": 1988,
+    "number_of_doors": 5,
+    "hp": 387
+  },
+  {
+    "id": 82,
+    "car_make": "Ford",
+    "car_models": "Econoline E250",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 92
+  },
+  {
+    "id": 83,
+    "car_make": "Ford",
+    "car_models": "Five Hundred",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 103
+  },
+  {
+    "id": 84,
+    "car_make": "Jaguar",
+    "car_models": "XF",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 264
+  },
+  {
+    "id": 85,
+    "car_make": "Kia",
+    "car_models": "Sedona",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 460
+  },
+  {
+    "id": 86,
+    "car_make": "Ford",
+    "car_models": "Tempo",
+    "car_year": 1987,
+    "number_of_doors": 3,
+    "hp": 447
+  },
+  {
+    "id": 87,
+    "car_make": "GMC",
+    "car_models": "Sierra 1500",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 490
+  },
+  {
+    "id": 88,
+    "car_make": "Lexus",
+    "car_models": "IS-F",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 488
+  },
+  {
+    "id": 89,
+    "car_make": "Plymouth",
+    "car_models": "Voyager",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 357
+  },
+  {
+    "id": 90,
+    "car_make": "Lincoln",
+    "car_models": "Town Car",
+    "car_year": 1984,
+    "number_of_doors": 5,
+    "hp": 250
+  },
+  {
+    "id": 91,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado 2500",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 300
+  },
+  {
+    "id": 92,
+    "car_make": "Chevrolet",
+    "car_models": "S10 Blazer",
+    "car_year": 1994,
+    "number_of_doors": 5,
+    "hp": 330
+  },
+  {
+    "id": 93,
+    "car_make": "Mercury",
+    "car_models": "Mountaineer",
+    "car_year": 1999,
+    "number_of_doors": 2,
+    "hp": 126
+  },
+  {
+    "id": 94,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1997,
+    "number_of_doors": 2,
+    "hp": 346
+  },
+  {
+    "id": 95,
+    "car_make": "Lexus",
+    "car_models": "RX Hybrid",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 300
+  },
+  {
+    "id": 96,
+    "car_make": "Subaru",
+    "car_models": "SVX",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 496
+  },
+  {
+    "id": 97,
+    "car_make": "Mazda",
+    "car_models": "MX-5",
+    "car_year": 1998,
+    "number_of_doors": 5,
+    "hp": 378
+  },
+  {
+    "id": 98,
+    "car_make": "Acura",
+    "car_models": "Integra",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 59
+  },
+  {
+    "id": 99,
+    "car_make": "BMW",
+    "car_models": "X5",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 490
+  },
+  {
+    "id": 100,
+    "car_make": "BMW",
+    "car_models": "8 Series",
+    "car_year": 1994,
+    "number_of_doors": 5,
+    "hp": 308
+  },
+  {
+    "id": 101,
+    "car_make": "Volkswagen",
+    "car_models": "Tiguan",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 102
+  },
+  {
+    "id": 102,
+    "car_make": "GMC",
+    "car_models": "Yukon",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 73
+  },
+  {
+    "id": 103,
+    "car_make": "Oldsmobile",
+    "car_models": "Silhouette",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 282
+  },
+  {
+    "id": 104,
+    "car_make": "Dodge",
+    "car_models": "Ram 2500",
+    "car_year": 1999,
+    "number_of_doors": 4,
+    "hp": 279
+  },
+  {
+    "id": 105,
+    "car_make": "Ford",
+    "car_models": "Flex",
+    "car_year": 2013,
+    "number_of_doors": 5,
+    "hp": 370
+  },
+  {
+    "id": 106,
+    "car_make": "Pontiac",
+    "car_models": "Trans Sport",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 276
+  },
+  {
+    "id": 107,
+    "car_make": "Jeep",
+    "car_models": "Grand Cherokee",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 480
+  },
+  {
+    "id": 108,
+    "car_make": "Toyota",
+    "car_models": "Solara",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 268
+  },
+  {
+    "id": 109,
+    "car_make": "Ford",
+    "car_models": "E250",
+    "car_year": 1984,
+    "number_of_doors": 5,
+    "hp": 337
+  },
+  {
+    "id": 110,
+    "car_make": "Chrysler",
+    "car_models": "Crossfire",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 54
+  },
+  {
+    "id": 111,
+    "car_make": "Chevrolet",
+    "car_models": "Astro",
+    "car_year": 1998,
+    "number_of_doors": 3,
+    "hp": 341
+  },
+  {
+    "id": 112,
+    "car_make": "Toyota",
+    "car_models": "Matrix",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 177
+  },
+  {
+    "id": 113,
+    "car_make": "Chevrolet",
+    "car_models": "G-Series G10",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 158
+  },
+  {
+    "id": 114,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 341
+  },
+  {
+    "id": 115,
+    "car_make": "Chevrolet",
+    "car_models": "Malibu",
+    "car_year": 1997,
+    "number_of_doors": 2,
+    "hp": 387
+  },
+  {
+    "id": 116,
+    "car_make": "Audi",
+    "car_models": "A3",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 148
+  },
+  {
+    "id": 117,
+    "car_make": "Mitsubishi",
+    "car_models": "Endeavor",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 492
+  },
+  {
+    "id": 118,
+    "car_make": "Land Rover",
+    "car_models": "Freelander",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 58
+  },
+  {
+    "id": 119,
+    "car_make": "Lamborghini",
+    "car_models": "Murciélago",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 297
+  },
+  {
+    "id": 120,
+    "car_make": "Mercedes-Benz",
+    "car_models": "600SEL",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 294
+  },
+  {
+    "id": 121,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1996,
+    "number_of_doors": 5,
+    "hp": 340
+  },
+  {
+    "id": 122,
+    "car_make": "Ford",
+    "car_models": "Mustang",
+    "car_year": 1995,
+    "number_of_doors": 3,
+    "hp": 164
+  },
+  {
+    "id": 123,
+    "car_make": "Mercedes-Benz",
+    "car_models": "500SEL",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 78
+  },
+  {
+    "id": 124,
+    "car_make": "Ford",
+    "car_models": "Mustang",
+    "car_year": 1987,
+    "number_of_doors": 4,
+    "hp": 160
+  },
+  {
+    "id": 125,
+    "car_make": "Buick",
+    "car_models": "Estate",
+    "car_year": 1990,
+    "number_of_doors": 3,
+    "hp": 226
+  },
+  {
+    "id": 126,
+    "car_make": "Saturn",
+    "car_models": "Outlook",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 316
+  },
+  {
+    "id": 127,
+    "car_make": "Volkswagen",
+    "car_models": "Tiguan",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 400
+  },
+  {
+    "id": 128,
+    "car_make": "Toyota",
+    "car_models": "MR2",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 184
+  },
+  {
+    "id": 129,
+    "car_make": "Mitsubishi",
+    "car_models": "Pajero",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 216
+  },
+  {
+    "id": 130,
+    "car_make": "BMW",
+    "car_models": "X5",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 456
+  },
+  {
+    "id": 131,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 251
+  },
+  {
+    "id": 132,
+    "car_make": "Lincoln",
+    "car_models": "Continental Mark VII",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 149
+  },
+  {
+    "id": 133,
+    "car_make": "Honda",
+    "car_models": "Odyssey",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 497
+  },
+  {
+    "id": 134,
+    "car_make": "Jeep",
+    "car_models": "Wrangler",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 291
+  },
+  {
+    "id": 135,
+    "car_make": "Eagle",
+    "car_models": "Talon",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 150
+  },
+  {
+    "id": 136,
+    "car_make": "Kia",
+    "car_models": "Rio",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 299
+  },
+  {
+    "id": 137,
+    "car_make": "Mitsubishi",
+    "car_models": "Chariot",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 168
+  },
+  {
+    "id": 138,
+    "car_make": "Mitsubishi",
+    "car_models": "Lancer Evolution",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 103
+  },
+  {
+    "id": 139,
+    "car_make": "Nissan",
+    "car_models": "Murano",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 284
+  },
+  {
+    "id": 140,
+    "car_make": "Oldsmobile",
+    "car_models": "98",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 243
+  },
+  {
+    "id": 141,
+    "car_make": "Lamborghini",
+    "car_models": "Murciélago",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 111
+  },
+  {
+    "id": 142,
+    "car_make": "Audi",
+    "car_models": "S4",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 226
+  },
+  {
+    "id": 143,
+    "car_make": "Dodge",
+    "car_models": "Ram 2500",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 77
+  },
+  {
+    "id": 144,
+    "car_make": "Mazda",
+    "car_models": "929",
+    "car_year": 1991,
+    "number_of_doors": 3,
+    "hp": 100
+  },
+  {
+    "id": 145,
+    "car_make": "Ford",
+    "car_models": "Probe",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 232
+  },
+  {
+    "id": 146,
+    "car_make": "Ford",
+    "car_models": "Escort",
+    "car_year": 1988,
+    "number_of_doors": 5,
+    "hp": 266
+  },
+  {
+    "id": 147,
+    "car_make": "Isuzu",
+    "car_models": "Rodeo",
+    "car_year": 1992,
+    "number_of_doors": 4,
+    "hp": 219
+  },
+  {
+    "id": 148,
+    "car_make": "Dodge",
+    "car_models": "Nitro",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 493
+  },
+  {
+    "id": 149,
+    "car_make": "GMC",
+    "car_models": "Sierra 2500",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 163
+  },
+  {
+    "id": 150,
+    "car_make": "Pontiac",
+    "car_models": "Bonneville",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 321
+  },
+  {
+    "id": 151,
+    "car_make": "Jeep",
+    "car_models": "Liberty",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 142
+  },
+  {
+    "id": 152,
+    "car_make": "Chevrolet",
+    "car_models": "Cavalier",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 375
+  },
+  {
+    "id": 153,
+    "car_make": "Buick",
+    "car_models": "LeSabre",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 380
+  },
+  {
+    "id": 154,
+    "car_make": "Chrysler",
+    "car_models": "Town & Country",
+    "car_year": 1999,
+    "number_of_doors": 4,
+    "hp": 64
+  },
+  {
+    "id": 155,
+    "car_make": "Ford",
+    "car_models": "Focus",
+    "car_year": 2013,
+    "number_of_doors": 4,
+    "hp": 281
+  },
+  {
+    "id": 156,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 1985,
+    "number_of_doors": 3,
+    "hp": 139
+  },
+  {
+    "id": 157,
+    "car_make": "Chevrolet",
+    "car_models": "Traverse",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 411
+  },
+  {
+    "id": 158,
+    "car_make": "Toyota",
+    "car_models": "Corolla",
+    "car_year": 2005,
+    "number_of_doors": 4,
+    "hp": 255
+  },
+  {
+    "id": 159,
+    "car_make": "Cadillac",
+    "car_models": "STS",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 441
+  },
+  {
+    "id": 160,
+    "car_make": "Mercury",
+    "car_models": "Grand Marquis",
+    "car_year": 1999,
+    "number_of_doors": 2,
+    "hp": 196
+  },
+  {
+    "id": 161,
+    "car_make": "Ford",
+    "car_models": "Probe",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 343
+  },
+  {
+    "id": 162,
+    "car_make": "Hyundai",
+    "car_models": "Accent",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 344
+  },
+  {
+    "id": 163,
+    "car_make": "Suzuki",
+    "car_models": "Equator",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 304
+  },
+  {
+    "id": 164,
+    "car_make": "MINI",
+    "car_models": "Clubman",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 51
+  },
+  {
+    "id": 165,
+    "car_make": "Mitsubishi",
+    "car_models": "Galant",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 472
+  },
+  {
+    "id": 166,
+    "car_make": "Mercedes-Benz",
+    "car_models": "C-Class",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 169
+  },
+  {
+    "id": 167,
+    "car_make": "Acura",
+    "car_models": "Legend",
+    "car_year": 1994,
+    "number_of_doors": 5,
+    "hp": 328
+  },
+  {
+    "id": 168,
+    "car_make": "Chevrolet",
+    "car_models": "LUV",
+    "car_year": 1979,
+    "number_of_doors": 5,
+    "hp": 91
+  },
+  {
+    "id": 169,
+    "car_make": "BMW",
+    "car_models": "M6",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 409
+  },
+  {
+    "id": 170,
+    "car_make": "Kia",
+    "car_models": "Sephia",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 158
+  },
+  {
+    "id": 171,
+    "car_make": "Plymouth",
+    "car_models": "Breeze",
+    "car_year": 1996,
+    "number_of_doors": 3,
+    "hp": 177
+  },
+  {
+    "id": 172,
+    "car_make": "BMW",
+    "car_models": "1 Series",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 499
+  },
+  {
+    "id": 173,
+    "car_make": "Lexus",
+    "car_models": "LX",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 431
+  },
+  {
+    "id": 174,
+    "car_make": "Mercedes-Benz",
+    "car_models": "C-Class",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 498
+  },
+  {
+    "id": 175,
+    "car_make": "Maybach",
+    "car_models": "62",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 131
+  },
+  {
+    "id": 176,
+    "car_make": "Subaru",
+    "car_models": "Impreza",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 387
+  },
+  {
+    "id": 177,
+    "car_make": "Mazda",
+    "car_models": "B-Series",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 385
+  },
+  {
+    "id": 178,
+    "car_make": "Plymouth",
+    "car_models": "Sundance",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 60
+  },
+  {
+    "id": 179,
+    "car_make": "Subaru",
+    "car_models": "Alcyone SVX",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 304
+  },
+  {
+    "id": 180,
+    "car_make": "Volkswagen",
+    "car_models": "GLI",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 478
+  },
+  {
+    "id": 181,
+    "car_make": "Subaru",
+    "car_models": "Impreza",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 146
+  },
+  {
+    "id": 182,
+    "car_make": "Volvo",
+    "car_models": "S80",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 125
+  },
+  {
+    "id": 183,
+    "car_make": "Isuzu",
+    "car_models": "i-370",
+    "car_year": 2007,
+    "number_of_doors": 2,
+    "hp": 180
+  },
+  {
+    "id": 184,
+    "car_make": "Saturn",
+    "car_models": "Outlook",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 369
+  },
+  {
+    "id": 185,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 272
+  },
+  {
+    "id": 186,
+    "car_make": "Toyota",
+    "car_models": "FJ Cruiser",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 348
+  },
+  {
+    "id": 187,
+    "car_make": "Scion",
+    "car_models": "FR-S",
+    "car_year": 2013,
+    "number_of_doors": 3,
+    "hp": 108
+  },
+  {
+    "id": 188,
+    "car_make": "Isuzu",
+    "car_models": "Space",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 171
+  },
+  {
+    "id": 189,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 338
+  },
+  {
+    "id": 190,
+    "car_make": "Mitsubishi",
+    "car_models": "Pajero",
+    "car_year": 1994,
+    "number_of_doors": 3,
+    "hp": 495
+  },
+  {
+    "id": 191,
+    "car_make": "Volvo",
+    "car_models": "XC90",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 284
+  },
+  {
+    "id": 192,
+    "car_make": "Mitsubishi",
+    "car_models": "Outlander",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 326
+  },
+  {
+    "id": 193,
+    "car_make": "Honda",
+    "car_models": "Accord",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 285
+  },
+  {
+    "id": 194,
+    "car_make": "GMC",
+    "car_models": "Savana 1500",
+    "car_year": 1997,
+    "number_of_doors": 3,
+    "hp": 375
+  },
+  {
+    "id": 195,
+    "car_make": "Suzuki",
+    "car_models": "Reno",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 427
+  },
+  {
+    "id": 196,
+    "car_make": "Pontiac",
+    "car_models": "6000",
+    "car_year": 1988,
+    "number_of_doors": 5,
+    "hp": 133
+  },
+  {
+    "id": 197,
+    "car_make": "Isuzu",
+    "car_models": "Axiom",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 78
+  },
+  {
+    "id": 198,
+    "car_make": "Ford",
+    "car_models": "Ranger",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 398
+  },
+  {
+    "id": 199,
+    "car_make": "Subaru",
+    "car_models": "Impreza",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 94
+  },
+  {
+    "id": 200,
+    "car_make": "GMC",
+    "car_models": "Envoy",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 80
+  },
+  {
+    "id": 201,
+    "car_make": "Pontiac",
+    "car_models": "LeMans",
+    "car_year": 1991,
+    "number_of_doors": 4,
+    "hp": 339
+  },
+  {
+    "id": 202,
+    "car_make": "Toyota",
+    "car_models": "Xtra",
+    "car_year": 1994,
+    "number_of_doors": 2,
+    "hp": 416
+  },
+  {
+    "id": 203,
+    "car_make": "Jaguar",
+    "car_models": "XJ",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 372
+  },
+  {
+    "id": 204,
+    "car_make": "Hummer",
+    "car_models": "H2",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 135
+  },
+  {
+    "id": 205,
+    "car_make": "Merkur",
+    "car_models": "XR4Ti",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 54
+  },
+  {
+    "id": 206,
+    "car_make": "Bentley",
+    "car_models": "Continental GTC",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 147
+  },
+  {
+    "id": 207,
+    "car_make": "Porsche",
+    "car_models": "928",
+    "car_year": 1994,
+    "number_of_doors": 2,
+    "hp": 398
+  },
+  {
+    "id": 208,
+    "car_make": "Acura",
+    "car_models": "TSX",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 342
+  },
+  {
+    "id": 209,
+    "car_make": "Kia",
+    "car_models": "Optima",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 480
+  },
+  {
+    "id": 210,
+    "car_make": "Chevrolet",
+    "car_models": "Colorado",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 102
+  },
+  {
+    "id": 211,
+    "car_make": "Lincoln",
+    "car_models": "MKT",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 223
+  },
+  {
+    "id": 212,
+    "car_make": "Mitsubishi",
+    "car_models": "Excel",
+    "car_year": 1987,
+    "number_of_doors": 2,
+    "hp": 444
+  },
+  {
+    "id": 213,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1989,
+    "number_of_doors": 5,
+    "hp": 388
+  },
+  {
+    "id": 214,
+    "car_make": "Cadillac",
+    "car_models": "Eldorado",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 215
+  },
+  {
+    "id": 215,
+    "car_make": "Chrysler",
+    "car_models": "Town & Country",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 302
+  },
+  {
+    "id": 216,
+    "car_make": "Volvo",
+    "car_models": "XC70",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 96
+  },
+  {
+    "id": 217,
+    "car_make": "Suzuki",
+    "car_models": "Equator",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 153
+  },
+  {
+    "id": 218,
+    "car_make": "Acura",
+    "car_models": "RSX",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 300
+  },
+  {
+    "id": 219,
+    "car_make": "Dodge",
+    "car_models": "Avenger",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 196
+  },
+  {
+    "id": 220,
+    "car_make": "Toyota",
+    "car_models": "Celica",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 424
+  },
+  {
+    "id": 221,
+    "car_make": "BMW",
+    "car_models": "M5",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 489
+  },
+  {
+    "id": 222,
+    "car_make": "Jeep",
+    "car_models": "Grand Cherokee",
+    "car_year": 1996,
+    "number_of_doors": 5,
+    "hp": 113
+  },
+  {
+    "id": 223,
+    "car_make": "Mitsubishi",
+    "car_models": "Precis",
+    "car_year": 1990,
+    "number_of_doors": 3,
+    "hp": 70
+  },
+  {
+    "id": 224,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 331
+  },
+  {
+    "id": 225,
+    "car_make": "Dodge",
+    "car_models": "Stratus",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 192
+  },
+  {
+    "id": 226,
+    "car_make": "Chevrolet",
+    "car_models": "Suburban 2500",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 100
+  },
+  {
+    "id": 227,
+    "car_make": "Pontiac",
+    "car_models": "Turbo Firefly",
+    "car_year": 1990,
+    "number_of_doors": 4,
+    "hp": 195
+  },
+  {
+    "id": 228,
+    "car_make": "Chevrolet",
+    "car_models": "Express 3500",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 320
+  },
+  {
+    "id": 229,
+    "car_make": "GMC",
+    "car_models": "Savana 2500",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 79
+  },
+  {
+    "id": 230,
+    "car_make": "Dodge",
+    "car_models": "Ram Van 2500",
+    "car_year": 1999,
+    "number_of_doors": 4,
+    "hp": 382
+  },
+  {
+    "id": 231,
+    "car_make": "Chevrolet",
+    "car_models": "Equinox",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 379
+  },
+  {
+    "id": 232,
+    "car_make": "Buick",
+    "car_models": "Century",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 435
+  },
+  {
+    "id": 233,
+    "car_make": "Ford",
+    "car_models": "Falcon",
+    "car_year": 1967,
+    "number_of_doors": 3,
+    "hp": 480
+  },
+  {
+    "id": 234,
+    "car_make": "Toyota",
+    "car_models": "RAV4",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 320
+  },
+  {
+    "id": 235,
+    "car_make": "Jaguar",
+    "car_models": "XJ Series",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 250
+  },
+  {
+    "id": 236,
+    "car_make": "Ford",
+    "car_models": "Expedition",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 216
+  },
+  {
+    "id": 237,
+    "car_make": "Cadillac",
+    "car_models": "Eldorado",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 78
+  },
+  {
+    "id": 238,
+    "car_make": "Isuzu",
+    "car_models": "Trooper",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 80
+  },
+  {
+    "id": 239,
+    "car_make": "Mazda",
+    "car_models": "B-Series",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 385
+  },
+  {
+    "id": 240,
+    "car_make": "Buick",
+    "car_models": "Skylark",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 394
+  },
+  {
+    "id": 241,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 234
+  },
+  {
+    "id": 242,
+    "car_make": "Ford",
+    "car_models": "F150",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 162
+  },
+  {
+    "id": 243,
+    "car_make": "Dodge",
+    "car_models": "Grand Caravan",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 385
+  },
+  {
+    "id": 244,
+    "car_make": "Honda",
+    "car_models": "CR-V",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 158
+  },
+  {
+    "id": 245,
+    "car_make": "Chevrolet",
+    "car_models": "Vega",
+    "car_year": 1971,
+    "number_of_doors": 4,
+    "hp": 432
+  },
+  {
+    "id": 246,
+    "car_make": "Mazda",
+    "car_models": "626",
+    "car_year": 1989,
+    "number_of_doors": 5,
+    "hp": 117
+  },
+  {
+    "id": 247,
+    "car_make": "Infiniti",
+    "car_models": "I",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 397
+  },
+  {
+    "id": 248,
+    "car_make": "Volkswagen",
+    "car_models": "R32",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 447
+  },
+  {
+    "id": 249,
+    "car_make": "Nissan",
+    "car_models": "Frontier",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 273
+  },
+  {
+    "id": 250,
+    "car_make": "Acura",
+    "car_models": "Legend",
+    "car_year": 1995,
+    "number_of_doors": 4,
+    "hp": 79
+  },
+  {
+    "id": 251,
+    "car_make": "Infiniti",
+    "car_models": "Q",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 340
+  },
+  {
+    "id": 252,
+    "car_make": "Buick",
+    "car_models": "Riviera",
+    "car_year": 1987,
+    "number_of_doors": 5,
+    "hp": 400
+  },
+  {
+    "id": 253,
+    "car_make": "Mitsubishi",
+    "car_models": "Montero",
+    "car_year": 2005,
+    "number_of_doors": 4,
+    "hp": 414
+  },
+  {
+    "id": 254,
+    "car_make": "Lincoln",
+    "car_models": "Navigator",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 342
+  },
+  {
+    "id": 255,
+    "car_make": "Mazda",
+    "car_models": "CX-7",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 494
+  },
+  {
+    "id": 256,
+    "car_make": "Volvo",
+    "car_models": "C30",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 196
+  },
+  {
+    "id": 257,
+    "car_make": "Infiniti",
+    "car_models": "QX56",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 209
+  },
+  {
+    "id": 258,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix",
+    "car_year": 1969,
+    "number_of_doors": 4,
+    "hp": 322
+  },
+  {
+    "id": 259,
+    "car_make": "BMW",
+    "car_models": "M5",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 180
+  },
+  {
+    "id": 260,
+    "car_make": "Audi",
+    "car_models": "A8",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 158
+  },
+  {
+    "id": 261,
+    "car_make": "Land Rover",
+    "car_models": "Discovery",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 470
+  },
+  {
+    "id": 262,
+    "car_make": "Toyota",
+    "car_models": "Sienna",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 82
+  },
+  {
+    "id": 263,
+    "car_make": "Lincoln",
+    "car_models": "Town Car",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 359
+  },
+  {
+    "id": 264,
+    "car_make": "Audi",
+    "car_models": "A6",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 296
+  },
+  {
+    "id": 265,
+    "car_make": "Ford",
+    "car_models": "Tempo",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 430
+  },
+  {
+    "id": 266,
+    "car_make": "Mazda",
+    "car_models": "MPV",
+    "car_year": 1989,
+    "number_of_doors": 2,
+    "hp": 360
+  },
+  {
+    "id": 267,
+    "car_make": "Suzuki",
+    "car_models": "XL7",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 455
+  },
+  {
+    "id": 268,
+    "car_make": "Bentley",
+    "car_models": "Continental Super",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 150
+  },
+  {
+    "id": 269,
+    "car_make": "Lexus",
+    "car_models": "LX",
+    "car_year": 1999,
+    "number_of_doors": 4,
+    "hp": 76
+  },
+  {
+    "id": 270,
+    "car_make": "Acura",
+    "car_models": "NSX",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 278
+  },
+  {
+    "id": 271,
+    "car_make": "Mercury",
+    "car_models": "Capri",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 435
+  },
+  {
+    "id": 272,
+    "car_make": "Mercury",
+    "car_models": "Sable",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 370
+  },
+  {
+    "id": 273,
+    "car_make": "Chrysler",
+    "car_models": "PT Cruiser",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 255
+  },
+  {
+    "id": 274,
+    "car_make": "Lexus",
+    "car_models": "LX",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 244
+  },
+  {
+    "id": 275,
+    "car_make": "Buick",
+    "car_models": "Lucerne",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 165
+  },
+  {
+    "id": 276,
+    "car_make": "Isuzu",
+    "car_models": "Trooper",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 284
+  },
+  {
+    "id": 277,
+    "car_make": "Mitsubishi",
+    "car_models": "Truck",
+    "car_year": 1996,
+    "number_of_doors": 5,
+    "hp": 103
+  },
+  {
+    "id": 278,
+    "car_make": "Acura",
+    "car_models": "NSX",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 340
+  },
+  {
+    "id": 279,
+    "car_make": "GMC",
+    "car_models": "Yukon XL 1500",
+    "car_year": 2013,
+    "number_of_doors": 5,
+    "hp": 475
+  },
+  {
+    "id": 280,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 348
+  },
+  {
+    "id": 281,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 1988,
+    "number_of_doors": 5,
+    "hp": 499
+  },
+  {
+    "id": 282,
+    "car_make": "Suzuki",
+    "car_models": "Sidekick",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 189
+  },
+  {
+    "id": 283,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 2000,
+    "number_of_doors": 4,
+    "hp": 443
+  },
+  {
+    "id": 284,
+    "car_make": "Mercedes-Benz",
+    "car_models": "C-Class",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 378
+  },
+  {
+    "id": 285,
+    "car_make": "Toyota",
+    "car_models": "Avalon",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 231
+  },
+  {
+    "id": 286,
+    "car_make": "Mazda",
+    "car_models": "MX-5",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 56
+  },
+  {
+    "id": 287,
+    "car_make": "Chevrolet",
+    "car_models": "Lumina",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 498
+  },
+  {
+    "id": 288,
+    "car_make": "Nissan",
+    "car_models": "Maxima",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 366
+  },
+  {
+    "id": 289,
+    "car_make": "Mercury",
+    "car_models": "Lynx",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 487
+  },
+  {
+    "id": 290,
+    "car_make": "Dodge",
+    "car_models": "D250",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 75
+  },
+  {
+    "id": 291,
+    "car_make": "Dodge",
+    "car_models": "Ram 1500 Club",
+    "car_year": 1998,
+    "number_of_doors": 5,
+    "hp": 383
+  },
+  {
+    "id": 292,
+    "car_make": "Kia",
+    "car_models": "Carens",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 310
+  },
+  {
+    "id": 293,
+    "car_make": "Honda",
+    "car_models": "Passport",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 485
+  },
+  {
+    "id": 294,
+    "car_make": "Mazda",
+    "car_models": "MX-6",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 444
+  },
+  {
+    "id": 295,
+    "car_make": "Nissan",
+    "car_models": "Xterra",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 286
+  },
+  {
+    "id": 296,
+    "car_make": "Dodge",
+    "car_models": "Ramcharger",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 168
+  },
+  {
+    "id": 297,
+    "car_make": "Chevrolet",
+    "car_models": "Prizm",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 130
+  },
+  {
+    "id": 298,
+    "car_make": "Hyundai",
+    "car_models": "Scoupe",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 190
+  },
+  {
+    "id": 299,
+    "car_make": "Isuzu",
+    "car_models": "Axiom",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 157
+  },
+  {
+    "id": 300,
+    "car_make": "Mazda",
+    "car_models": "929",
+    "car_year": 1987,
+    "number_of_doors": 3,
+    "hp": 373
+  },
+  {
+    "id": 301,
+    "car_make": "Tesla",
+    "car_models": "Model S",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 61
+  },
+  {
+    "id": 302,
+    "car_make": "BMW",
+    "car_models": "530",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 73
+  },
+  {
+    "id": 303,
+    "car_make": "GMC",
+    "car_models": "Sierra 3500",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 463
+  },
+  {
+    "id": 304,
+    "car_make": "Cadillac",
+    "car_models": "Allante",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 277
+  },
+  {
+    "id": 305,
+    "car_make": "Mercedes-Benz",
+    "car_models": "Sprinter 3500",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 316
+  },
+  {
+    "id": 306,
+    "car_make": "Chevrolet",
+    "car_models": "Prizm",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 245
+  },
+  {
+    "id": 307,
+    "car_make": "BMW",
+    "car_models": "X3",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 194
+  },
+  {
+    "id": 308,
+    "car_make": "Mercedes-Benz",
+    "car_models": "S-Class",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 203
+  },
+  {
+    "id": 309,
+    "car_make": "Chevrolet",
+    "car_models": "Prizm",
+    "car_year": 2000,
+    "number_of_doors": 4,
+    "hp": 403
+  },
+  {
+    "id": 310,
+    "car_make": "Chevrolet",
+    "car_models": "Prizm",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 146
+  },
+  {
+    "id": 311,
+    "car_make": "Oldsmobile",
+    "car_models": "Silhouette",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 499
+  },
+  {
+    "id": 312,
+    "car_make": "Ford",
+    "car_models": "Club Wagon",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 366
+  },
+  {
+    "id": 313,
+    "car_make": "Audi",
+    "car_models": "S6",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 207
+  },
+  {
+    "id": 314,
+    "car_make": "Volkswagen",
+    "car_models": "GTI",
+    "car_year": 1997,
+    "number_of_doors": 3,
+    "hp": 156
+  },
+  {
+    "id": 315,
+    "car_make": "Oldsmobile",
+    "car_models": "Intrigue",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 452
+  },
+  {
+    "id": 316,
+    "car_make": "Mitsubishi",
+    "car_models": "Diamante",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 472
+  },
+  {
+    "id": 317,
+    "car_make": "Porsche",
+    "car_models": "911",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 116
+  },
+  {
+    "id": 318,
+    "car_make": "Toyota",
+    "car_models": "Tacoma",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 473
+  },
+  {
+    "id": 319,
+    "car_make": "Mercury",
+    "car_models": "Grand Marquis",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 227
+  },
+  {
+    "id": 320,
+    "car_make": "Honda",
+    "car_models": "Odyssey",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 465
+  },
+  {
+    "id": 321,
+    "car_make": "Mitsubishi",
+    "car_models": "GTO",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 202
+  },
+  {
+    "id": 322,
+    "car_make": "Infiniti",
+    "car_models": "Q",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 89
+  },
+  {
+    "id": 323,
+    "car_make": "Subaru",
+    "car_models": "Outback",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 416
+  },
+  {
+    "id": 324,
+    "car_make": "Hyundai",
+    "car_models": "Sonata",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 496
+  },
+  {
+    "id": 325,
+    "car_make": "Kia",
+    "car_models": "Sportage",
+    "car_year": 2007,
+    "number_of_doors": 2,
+    "hp": 214
+  },
+  {
+    "id": 326,
+    "car_make": "Pontiac",
+    "car_models": "Firebird",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 307
+  },
+  {
+    "id": 327,
+    "car_make": "Chevrolet",
+    "car_models": "Astro",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 398
+  },
+  {
+    "id": 328,
+    "car_make": "Bentley",
+    "car_models": "Continental Flying Spur",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 277
+  },
+  {
+    "id": 329,
+    "car_make": "Volkswagen",
+    "car_models": "Passat",
+    "car_year": 1987,
+    "number_of_doors": 2,
+    "hp": 416
+  },
+  {
+    "id": 330,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 1986,
+    "number_of_doors": 2,
+    "hp": 77
+  },
+  {
+    "id": 331,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 211
+  },
+  {
+    "id": 332,
+    "car_make": "Audi",
+    "car_models": "100",
+    "car_year": 1991,
+    "number_of_doors": 5,
+    "hp": 168
+  },
+  {
+    "id": 333,
+    "car_make": "Volvo",
+    "car_models": "S80",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 415
+  },
+  {
+    "id": 334,
+    "car_make": "Hyundai",
+    "car_models": "Tucson",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 172
+  },
+  {
+    "id": 335,
+    "car_make": "Rolls-Royce",
+    "car_models": "Ghost",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 60
+  },
+  {
+    "id": 336,
+    "car_make": "Lexus",
+    "car_models": "SC",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 191
+  },
+  {
+    "id": 337,
+    "car_make": "BMW",
+    "car_models": "Z4",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 296
+  },
+  {
+    "id": 338,
+    "car_make": "Nissan",
+    "car_models": "Pathfinder",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 76
+  },
+  {
+    "id": 339,
+    "car_make": "Subaru",
+    "car_models": "Impreza",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 207
+  },
+  {
+    "id": 340,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 127
+  },
+  {
+    "id": 341,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 455
+  },
+  {
+    "id": 342,
+    "car_make": "Mercury",
+    "car_models": "Mariner",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 144
+  },
+  {
+    "id": 343,
+    "car_make": "Chevrolet",
+    "car_models": "G-Series 1500",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 108
+  },
+  {
+    "id": 344,
+    "car_make": "Isuzu",
+    "car_models": "Trooper",
+    "car_year": 1996,
+    "number_of_doors": 3,
+    "hp": 296
+  },
+  {
+    "id": 345,
+    "car_make": "Acura",
+    "car_models": "Vigor",
+    "car_year": 1994,
+    "number_of_doors": 2,
+    "hp": 479
+  },
+  {
+    "id": 346,
+    "car_make": "Suzuki",
+    "car_models": "Verona",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 144
+  },
+  {
+    "id": 347,
+    "car_make": "Infiniti",
+    "car_models": "G37",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 223
+  },
+  {
+    "id": 348,
+    "car_make": "Kia",
+    "car_models": "Optima",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 163
+  },
+  {
+    "id": 349,
+    "car_make": "Nissan",
+    "car_models": "Sentra",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 93
+  },
+  {
+    "id": 350,
+    "car_make": "Ford",
+    "car_models": "Aerostar",
+    "car_year": 1992,
+    "number_of_doors": 4,
+    "hp": 164
+  },
+  {
+    "id": 351,
+    "car_make": "Suzuki",
+    "car_models": "Reno",
+    "car_year": 2007,
+    "number_of_doors": 2,
+    "hp": 115
+  },
+  {
+    "id": 352,
+    "car_make": "Ford",
+    "car_models": "E-350 Super Duty",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 356
+  },
+  {
+    "id": 353,
+    "car_make": "Ford",
+    "car_models": "E-Series",
+    "car_year": 1963,
+    "number_of_doors": 5,
+    "hp": 402
+  },
+  {
+    "id": 354,
+    "car_make": "Cadillac",
+    "car_models": "CTS",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 303
+  },
+  {
+    "id": 355,
+    "car_make": "Dodge",
+    "car_models": "Grand Caravan",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 421
+  },
+  {
+    "id": 356,
+    "car_make": "Ford",
+    "car_models": "Transit Connect",
+    "car_year": 2013,
+    "number_of_doors": 4,
+    "hp": 99
+  },
+  {
+    "id": 357,
+    "car_make": "Isuzu",
+    "car_models": "Trooper",
+    "car_year": 1997,
+    "number_of_doors": 4,
+    "hp": 446
+  },
+  {
+    "id": 358,
+    "car_make": "Honda",
+    "car_models": "CR-V",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 372
+  },
+  {
+    "id": 359,
+    "car_make": "Volkswagen",
+    "car_models": "Golf",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 346
+  },
+  {
+    "id": 360,
+    "car_make": "Jeep",
+    "car_models": "Grand Cherokee",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 74
+  },
+  {
+    "id": 361,
+    "car_make": "Nissan",
+    "car_models": "280ZX",
+    "car_year": 1979,
+    "number_of_doors": 4,
+    "hp": 149
+  },
+  {
+    "id": 362,
+    "car_make": "Porsche",
+    "car_models": "Boxster",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 219
+  },
+  {
+    "id": 363,
+    "car_make": "Honda",
+    "car_models": "CR-V",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 212
+  },
+  {
+    "id": 364,
+    "car_make": "Acura",
+    "car_models": "ZDX",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 456
+  },
+  {
+    "id": 365,
+    "car_make": "Cadillac",
+    "car_models": "Fleetwood",
+    "car_year": 1996,
+    "number_of_doors": 5,
+    "hp": 286
+  },
+  {
+    "id": 366,
+    "car_make": "Maserati",
+    "car_models": "Spyder",
+    "car_year": 1991,
+    "number_of_doors": 4,
+    "hp": 251
+  },
+  {
+    "id": 367,
+    "car_make": "Pontiac",
+    "car_models": "Sunbird",
+    "car_year": 1987,
+    "number_of_doors": 4,
+    "hp": 407
+  },
+  {
+    "id": 368,
+    "car_make": "Lexus",
+    "car_models": "LS",
+    "car_year": 1989,
+    "number_of_doors": 5,
+    "hp": 68
+  },
+  {
+    "id": 369,
+    "car_make": "Chevrolet",
+    "car_models": "Express 1500",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 116
+  },
+  {
+    "id": 370,
+    "car_make": "Land Rover",
+    "car_models": "LR3",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 87
+  },
+  {
+    "id": 371,
+    "car_make": "Mercury",
+    "car_models": "Sable",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 280
+  },
+  {
+    "id": 372,
+    "car_make": "Dodge",
+    "car_models": "Daytona",
+    "car_year": 1984,
+    "number_of_doors": 3,
+    "hp": 131
+  },
+  {
+    "id": 373,
+    "car_make": "Land Rover",
+    "car_models": "LR2",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 342
+  },
+  {
+    "id": 374,
+    "car_make": "Lincoln",
+    "car_models": "LS",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 389
+  },
+  {
+    "id": 375,
+    "car_make": "Chevrolet",
+    "car_models": "Monte Carlo",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 143
+  },
+  {
+    "id": 376,
+    "car_make": "Mercedes-Benz",
+    "car_models": "CLS-Class",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 123
+  },
+  {
+    "id": 377,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado 1500",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 133
+  },
+  {
+    "id": 378,
+    "car_make": "Porsche",
+    "car_models": "Boxster",
+    "car_year": 2000,
+    "number_of_doors": 4,
+    "hp": 382
+  },
+  {
+    "id": 379,
+    "car_make": "Aston Martin",
+    "car_models": "DBS",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 297
+  },
+  {
+    "id": 380,
+    "car_make": "GMC",
+    "car_models": "Acadia",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 258
+  },
+  {
+    "id": 381,
+    "car_make": "Kia",
+    "car_models": "Rondo",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 280
+  },
+  {
+    "id": 382,
+    "car_make": "Honda",
+    "car_models": "Accord",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 482
+  },
+  {
+    "id": 383,
+    "car_make": "Mitsubishi",
+    "car_models": "Chariot",
+    "car_year": 1991,
+    "number_of_doors": 4,
+    "hp": 291
+  },
+  {
+    "id": 384,
+    "car_make": "Mercury",
+    "car_models": "Sable",
+    "car_year": 1991,
+    "number_of_doors": 5,
+    "hp": 235
+  },
+  {
+    "id": 385,
+    "car_make": "Lamborghini",
+    "car_models": "Murciélago LP640",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 203
+  },
+  {
+    "id": 386,
+    "car_make": "Mercury",
+    "car_models": "Sable",
+    "car_year": 1991,
+    "number_of_doors": 4,
+    "hp": 482
+  },
+  {
+    "id": 387,
+    "car_make": "Lexus",
+    "car_models": "SC",
+    "car_year": 1995,
+    "number_of_doors": 3,
+    "hp": 460
+  },
+  {
+    "id": 388,
+    "car_make": "Dodge",
+    "car_models": "Viper",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 192
+  },
+  {
+    "id": 389,
+    "car_make": "Lincoln",
+    "car_models": "MKX",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 142
+  },
+  {
+    "id": 390,
+    "car_make": "Cadillac",
+    "car_models": "Escalade EXT",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 452
+  },
+  {
+    "id": 391,
+    "car_make": "Bentley",
+    "car_models": "Continental GT",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 499
+  },
+  {
+    "id": 392,
+    "car_make": "Hyundai",
+    "car_models": "Accent",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 498
+  },
+  {
+    "id": 393,
+    "car_make": "Nissan",
+    "car_models": "GT-R",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 290
+  },
+  {
+    "id": 394,
+    "car_make": "GMC",
+    "car_models": "2500",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 60
+  },
+  {
+    "id": 395,
+    "car_make": "GMC",
+    "car_models": "Savana 3500",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 307
+  },
+  {
+    "id": 396,
+    "car_make": "Volkswagen",
+    "car_models": "Tiguan",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 68
+  },
+  {
+    "id": 397,
+    "car_make": "Ford",
+    "car_models": "Tempo",
+    "car_year": 1990,
+    "number_of_doors": 2,
+    "hp": 453
+  },
+  {
+    "id": 398,
+    "car_make": "Dodge",
+    "car_models": "Dakota Club",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 303
+  },
+  {
+    "id": 399,
+    "car_make": "Hyundai",
+    "car_models": "Azera",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 356
+  },
+  {
+    "id": 400,
+    "car_make": "Eagle",
+    "car_models": "Summit",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 78
+  },
+  {
+    "id": 401,
+    "car_make": "Mercedes-Benz",
+    "car_models": "W126",
+    "car_year": 1983,
+    "number_of_doors": 5,
+    "hp": 139
+  },
+  {
+    "id": 402,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix Turbo",
+    "car_year": 1990,
+    "number_of_doors": 3,
+    "hp": 352
+  },
+  {
+    "id": 403,
+    "car_make": "Ford",
+    "car_models": "Econoline E150",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 208
+  },
+  {
+    "id": 404,
+    "car_make": "Subaru",
+    "car_models": "Alcyone SVX",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 122
+  },
+  {
+    "id": 405,
+    "car_make": "Ford",
+    "car_models": "Explorer Sport",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 252
+  },
+  {
+    "id": 406,
+    "car_make": "Audi",
+    "car_models": "S8",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 51
+  },
+  {
+    "id": 407,
+    "car_make": "Lexus",
+    "car_models": "GS",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 427
+  },
+  {
+    "id": 408,
+    "car_make": "Mazda",
+    "car_models": "Tribute",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 356
+  },
+  {
+    "id": 409,
+    "car_make": "BMW",
+    "car_models": "X5",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 80
+  },
+  {
+    "id": 410,
+    "car_make": "Mazda",
+    "car_models": "Miata MX-5",
+    "car_year": 1994,
+    "number_of_doors": 2,
+    "hp": 494
+  },
+  {
+    "id": 411,
+    "car_make": "Infiniti",
+    "car_models": "FX",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 200
+  },
+  {
+    "id": 412,
+    "car_make": "BMW",
+    "car_models": "X6 M",
+    "car_year": 2013,
+    "number_of_doors": 5,
+    "hp": 237
+  },
+  {
+    "id": 413,
+    "car_make": "Mercedes-Benz",
+    "car_models": "Sprinter 3500",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 148
+  },
+  {
+    "id": 414,
+    "car_make": "Toyota",
+    "car_models": "Tacoma",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 79
+  },
+  {
+    "id": 415,
+    "car_make": "Pontiac",
+    "car_models": "Bonneville",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 95
+  },
+  {
+    "id": 416,
+    "car_make": "Hyundai",
+    "car_models": "Santa Fe",
+    "car_year": 2007,
+    "number_of_doors": 2,
+    "hp": 450
+  },
+  {
+    "id": 417,
+    "car_make": "Dodge",
+    "car_models": "Ram 3500",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 484
+  },
+  {
+    "id": 418,
+    "car_make": "Acura",
+    "car_models": "CL",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 179
+  },
+  {
+    "id": 419,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 286
+  },
+  {
+    "id": 420,
+    "car_make": "Mitsubishi",
+    "car_models": "Eclipse",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 261
+  },
+  {
+    "id": 421,
+    "car_make": "Volvo",
+    "car_models": "C70",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 445
+  },
+  {
+    "id": 422,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1962,
+    "number_of_doors": 2,
+    "hp": 468
+  },
+  {
+    "id": 423,
+    "car_make": "Mercury",
+    "car_models": "Topaz",
+    "car_year": 1991,
+    "number_of_doors": 4,
+    "hp": 409
+  },
+  {
+    "id": 424,
+    "car_make": "Pontiac",
+    "car_models": "Trans Sport",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 453
+  },
+  {
+    "id": 425,
+    "car_make": "Oldsmobile",
+    "car_models": "Silhouette",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 168
+  },
+  {
+    "id": 426,
+    "car_make": "Mercedes-Benz",
+    "car_models": "S-Class",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 356
+  },
+  {
+    "id": 427,
+    "car_make": "Hummer",
+    "car_models": "H1",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 412
+  },
+  {
+    "id": 428,
+    "car_make": "Mitsubishi",
+    "car_models": "Lancer Evolution",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 84
+  },
+  {
+    "id": 429,
+    "car_make": "BMW",
+    "car_models": "M5",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 91
+  },
+  {
+    "id": 430,
+    "car_make": "Isuzu",
+    "car_models": "Hombre Space",
+    "car_year": 1998,
+    "number_of_doors": 5,
+    "hp": 369
+  },
+  {
+    "id": 431,
+    "car_make": "Hyundai",
+    "car_models": "Equus",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 63
+  },
+  {
+    "id": 432,
+    "car_make": "Dodge",
+    "car_models": "Avenger",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 229
+  },
+  {
+    "id": 433,
+    "car_make": "Saturn",
+    "car_models": "Relay",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 304
+  },
+  {
+    "id": 434,
+    "car_make": "Infiniti",
+    "car_models": "QX56",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 247
+  },
+  {
+    "id": 435,
+    "car_make": "Chrysler",
+    "car_models": "Sebring",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 380
+  },
+  {
+    "id": 436,
+    "car_make": "Chrysler",
+    "car_models": "Prowler",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 297
+  },
+  {
+    "id": 437,
+    "car_make": "Nissan",
+    "car_models": "Altima",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 427
+  },
+  {
+    "id": 438,
+    "car_make": "Shelby",
+    "car_models": "GT500",
+    "car_year": 1968,
+    "number_of_doors": 3,
+    "hp": 286
+  },
+  {
+    "id": 439,
+    "car_make": "Nissan",
+    "car_models": "Maxima",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 235
+  },
+  {
+    "id": 440,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SL-Class",
+    "car_year": 1987,
+    "number_of_doors": 2,
+    "hp": 456
+  },
+  {
+    "id": 441,
+    "car_make": "Suzuki",
+    "car_models": "Daewoo Lacetti",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 319
+  },
+  {
+    "id": 442,
+    "car_make": "Lincoln",
+    "car_models": "MKT",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 321
+  },
+  {
+    "id": 443,
+    "car_make": "Toyota",
+    "car_models": "Camry",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 226
+  },
+  {
+    "id": 444,
+    "car_make": "Acura",
+    "car_models": "RSX",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 119
+  },
+  {
+    "id": 445,
+    "car_make": "GMC",
+    "car_models": "Savana 2500",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 461
+  },
+  {
+    "id": 446,
+    "car_make": "Ford",
+    "car_models": "Taurus",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 468
+  },
+  {
+    "id": 447,
+    "car_make": "Dodge",
+    "car_models": "Dakota Club",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 215
+  },
+  {
+    "id": 448,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 161
+  },
+  {
+    "id": 449,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 306
+  },
+  {
+    "id": 450,
+    "car_make": "Mazda",
+    "car_models": "Navajo",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 344
+  },
+  {
+    "id": 451,
+    "car_make": "GMC",
+    "car_models": "Acadia",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 487
+  },
+  {
+    "id": 452,
+    "car_make": "Audi",
+    "car_models": "S6",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 420
+  },
+  {
+    "id": 453,
+    "car_make": "Chevrolet",
+    "car_models": "G-Series G30",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 70
+  },
+  {
+    "id": 454,
+    "car_make": "Mitsubishi",
+    "car_models": "Endeavor",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 455
+  },
+  {
+    "id": 455,
+    "car_make": "Jeep",
+    "car_models": "Grand Cherokee",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 251
+  },
+  {
+    "id": 456,
+    "car_make": "Lotus",
+    "car_models": "Esprit",
+    "car_year": 2000,
+    "number_of_doors": 4,
+    "hp": 141
+  },
+  {
+    "id": 457,
+    "car_make": "Hyundai",
+    "car_models": "Genesis Coupe",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 191
+  },
+  {
+    "id": 458,
+    "car_make": "Geo",
+    "car_models": "Prizm",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 405
+  },
+  {
+    "id": 459,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 112
+  },
+  {
+    "id": 460,
+    "car_make": "BMW",
+    "car_models": "650",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 326
+  },
+  {
+    "id": 461,
+    "car_make": "GMC",
+    "car_models": "Envoy",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 171
+  },
+  {
+    "id": 462,
+    "car_make": "Suzuki",
+    "car_models": "Grand Vitara",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 238
+  },
+  {
+    "id": 463,
+    "car_make": "Lexus",
+    "car_models": "RX",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 428
+  },
+  {
+    "id": 464,
+    "car_make": "Mercury",
+    "car_models": "Topaz",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 87
+  },
+  {
+    "id": 465,
+    "car_make": "Dodge",
+    "car_models": "Ram Van B350",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 330
+  },
+  {
+    "id": 466,
+    "car_make": "Volvo",
+    "car_models": "V40",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 293
+  },
+  {
+    "id": 467,
+    "car_make": "Plymouth",
+    "car_models": "Laser",
+    "car_year": 1989,
+    "number_of_doors": 5,
+    "hp": 193
+  },
+  {
+    "id": 468,
+    "car_make": "Chevrolet",
+    "car_models": "3500",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 213
+  },
+  {
+    "id": 469,
+    "car_make": "Audi",
+    "car_models": "S6",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 99
+  },
+  {
+    "id": 470,
+    "car_make": "Volkswagen",
+    "car_models": "Passat",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 134
+  },
+  {
+    "id": 471,
+    "car_make": "Volkswagen",
+    "car_models": "Passat",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 473
+  },
+  {
+    "id": 472,
+    "car_make": "Toyota",
+    "car_models": "Tundra",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 321
+  },
+  {
+    "id": 473,
+    "car_make": "GMC",
+    "car_models": "Rally Wagon G3500",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 345
+  },
+  {
+    "id": 474,
+    "car_make": "Mazda",
+    "car_models": "B2500",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 397
+  },
+  {
+    "id": 475,
+    "car_make": "Nissan",
+    "car_models": "370Z",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 405
+  },
+  {
+    "id": 476,
+    "car_make": "Lotus",
+    "car_models": "Evora",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 66
+  },
+  {
+    "id": 477,
+    "car_make": "Pontiac",
+    "car_models": "Fiero",
+    "car_year": 1986,
+    "number_of_doors": 2,
+    "hp": 214
+  },
+  {
+    "id": 478,
+    "car_make": "Audi",
+    "car_models": "S5",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 173
+  },
+  {
+    "id": 479,
+    "car_make": "GMC",
+    "car_models": "Sierra 3500",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 372
+  },
+  {
+    "id": 480,
+    "car_make": "Pontiac",
+    "car_models": "GTO",
+    "car_year": 1965,
+    "number_of_doors": 3,
+    "hp": 185
+  },
+  {
+    "id": 481,
+    "car_make": "Toyota",
+    "car_models": "Corolla",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 185
+  },
+  {
+    "id": 482,
+    "car_make": "Plymouth",
+    "car_models": "Breeze",
+    "car_year": 1999,
+    "number_of_doors": 4,
+    "hp": 459
+  },
+  {
+    "id": 483,
+    "car_make": "Mazda",
+    "car_models": "Familia",
+    "car_year": 1989,
+    "number_of_doors": 4,
+    "hp": 306
+  },
+  {
+    "id": 484,
+    "car_make": "Buick",
+    "car_models": "Park Avenue",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 364
+  },
+  {
+    "id": 485,
+    "car_make": "Mitsubishi",
+    "car_models": "3000GT",
+    "car_year": 1999,
+    "number_of_doors": 2,
+    "hp": 107
+  },
+  {
+    "id": 486,
+    "car_make": "Jeep",
+    "car_models": "Patriot",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 198
+  },
+  {
+    "id": 487,
+    "car_make": "BMW",
+    "car_models": "7 Series",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 335
+  },
+  {
+    "id": 488,
+    "car_make": "Mercedes-Benz",
+    "car_models": "M-Class",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 306
+  },
+  {
+    "id": 489,
+    "car_make": "Mitsubishi",
+    "car_models": "Pajero",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 305
+  },
+  {
+    "id": 490,
+    "car_make": "Mercury",
+    "car_models": "Cougar",
+    "car_year": 1986,
+    "number_of_doors": 4,
+    "hp": 97
+  },
+  {
+    "id": 491,
+    "car_make": "Volkswagen",
+    "car_models": "riolet",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 302
+  },
+  {
+    "id": 492,
+    "car_make": "Hyundai",
+    "car_models": "Elantra",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 320
+  },
+  {
+    "id": 493,
+    "car_make": "Mercedes-Benz",
+    "car_models": "S-Class",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 391
+  },
+  {
+    "id": 494,
+    "car_make": "Pontiac",
+    "car_models": "G3",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 486
+  },
+  {
+    "id": 495,
+    "car_make": "Ford",
+    "car_models": "F450",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 230
+  },
+  {
+    "id": 496,
+    "car_make": "Mercedes-Benz",
+    "car_models": "M-Class",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 227
+  },
+  {
+    "id": 497,
+    "car_make": "Nissan",
+    "car_models": "Leaf",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 284
+  },
+  {
+    "id": 498,
+    "car_make": "Mercedes-Benz",
+    "car_models": "W123",
+    "car_year": 1977,
+    "number_of_doors": 3,
+    "hp": 162
+  },
+  {
+    "id": 499,
+    "car_make": "Buick",
+    "car_models": "Century",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 268
+  },
+  {
+    "id": 500,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1992,
+    "number_of_doors": 4,
+    "hp": 163
+  },
+  {
+    "id": 501,
+    "car_make": "Cadillac",
+    "car_models": "Escalade",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 374
+  },
+  {
+    "id": 502,
+    "car_make": "BMW",
+    "car_models": "6 Series",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 199
+  },
+  {
+    "id": 503,
+    "car_make": "GMC",
+    "car_models": "Sierra 1500",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 179
+  },
+  {
+    "id": 504,
+    "car_make": "Audi",
+    "car_models": "A6",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 490
+  },
+  {
+    "id": 505,
+    "car_make": "GMC",
+    "car_models": "Suburban 2500",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 367
+  },
+  {
+    "id": 506,
+    "car_make": "Ford",
+    "car_models": "E-Series",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 306
+  },
+  {
+    "id": 507,
+    "car_make": "Mitsubishi",
+    "car_models": "Endeavor",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 190
+  },
+  {
+    "id": 508,
+    "car_make": "Toyota",
+    "car_models": "Camry Hybrid",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 182
+  },
+  {
+    "id": 509,
+    "car_make": "Nissan",
+    "car_models": "Sentra",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 478
+  },
+  {
+    "id": 510,
+    "car_make": "Dodge",
+    "car_models": "Ram 2500",
+    "car_year": 1998,
+    "number_of_doors": 3,
+    "hp": 499
+  },
+  {
+    "id": 511,
+    "car_make": "Mazda",
+    "car_models": "Miata MX-5",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 499
+  },
+  {
+    "id": 512,
+    "car_make": "Toyota",
+    "car_models": "RAV4",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 136
+  },
+  {
+    "id": 513,
+    "car_make": "Ford",
+    "car_models": "Edge",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 161
+  },
+  {
+    "id": 514,
+    "car_make": "Volkswagen",
+    "car_models": "Type 2",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 71
+  },
+  {
+    "id": 515,
+    "car_make": "MINI",
+    "car_models": "Cooper Clubman",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 490
+  },
+  {
+    "id": 516,
+    "car_make": "GMC",
+    "car_models": "Savana 1500",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 207
+  },
+  {
+    "id": 517,
+    "car_make": "Mercedes-Benz",
+    "car_models": "C-Class",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 284
+  },
+  {
+    "id": 518,
+    "car_make": "Audi",
+    "car_models": "200",
+    "car_year": 1990,
+    "number_of_doors": 2,
+    "hp": 161
+  },
+  {
+    "id": 519,
+    "car_make": "BMW",
+    "car_models": "330",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 97
+  },
+  {
+    "id": 520,
+    "car_make": "Pontiac",
+    "car_models": "G6",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 150
+  },
+  {
+    "id": 521,
+    "car_make": "Ford",
+    "car_models": "Festiva",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 259
+  },
+  {
+    "id": 522,
+    "car_make": "Infiniti",
+    "car_models": "QX",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 410
+  },
+  {
+    "id": 523,
+    "car_make": "Porsche",
+    "car_models": "Cayenne",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 377
+  },
+  {
+    "id": 524,
+    "car_make": "BMW",
+    "car_models": "5 Series",
+    "car_year": 2000,
+    "number_of_doors": 4,
+    "hp": 438
+  },
+  {
+    "id": 525,
+    "car_make": "Toyota",
+    "car_models": "Echo",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 118
+  },
+  {
+    "id": 526,
+    "car_make": "Pontiac",
+    "car_models": "Torrent",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 372
+  },
+  {
+    "id": 527,
+    "car_make": "Volvo",
+    "car_models": "V50",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 499
+  },
+  {
+    "id": 528,
+    "car_make": "Infiniti",
+    "car_models": "QX56",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 269
+  },
+  {
+    "id": 529,
+    "car_make": "Lotus",
+    "car_models": "Esprit",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 271
+  },
+  {
+    "id": 530,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1967,
+    "number_of_doors": 2,
+    "hp": 424
+  },
+  {
+    "id": 531,
+    "car_make": "Audi",
+    "car_models": "A4",
+    "car_year": 1996,
+    "number_of_doors": 5,
+    "hp": 424
+  },
+  {
+    "id": 532,
+    "car_make": "Mazda",
+    "car_models": "Protege",
+    "car_year": 1994,
+    "number_of_doors": 5,
+    "hp": 93
+  },
+  {
+    "id": 533,
+    "car_make": "Ford",
+    "car_models": "Focus",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 206
+  },
+  {
+    "id": 534,
+    "car_make": "Mercury",
+    "car_models": "Grand Marquis",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 266
+  },
+  {
+    "id": 535,
+    "car_make": "Buick",
+    "car_models": "Regal",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 55
+  },
+  {
+    "id": 536,
+    "car_make": "Buick",
+    "car_models": "Electra",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 378
+  },
+  {
+    "id": 537,
+    "car_make": "Mazda",
+    "car_models": "626",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 294
+  },
+  {
+    "id": 538,
+    "car_make": "BMW",
+    "car_models": "5 Series",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 450
+  },
+  {
+    "id": 539,
+    "car_make": "Ford",
+    "car_models": "Ranger",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 257
+  },
+  {
+    "id": 540,
+    "car_make": "Ford",
+    "car_models": "Taurus",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 282
+  },
+  {
+    "id": 541,
+    "car_make": "Kia",
+    "car_models": "Rondo",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 175
+  },
+  {
+    "id": 542,
+    "car_make": "Acura",
+    "car_models": "CL",
+    "car_year": 1997,
+    "number_of_doors": 4,
+    "hp": 337
+  },
+  {
+    "id": 543,
+    "car_make": "Land Rover",
+    "car_models": "Freelander",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 339
+  },
+  {
+    "id": 544,
+    "car_make": "Oldsmobile",
+    "car_models": "Aurora",
+    "car_year": 1997,
+    "number_of_doors": 4,
+    "hp": 164
+  },
+  {
+    "id": 545,
+    "car_make": "Chevrolet",
+    "car_models": "S10",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 337
+  },
+  {
+    "id": 546,
+    "car_make": "Mitsubishi",
+    "car_models": "GTO",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 222
+  },
+  {
+    "id": 547,
+    "car_make": "Nissan",
+    "car_models": "Pathfinder Armada",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 133
+  },
+  {
+    "id": 548,
+    "car_make": "Ford",
+    "car_models": "Contour",
+    "car_year": 1997,
+    "number_of_doors": 2,
+    "hp": 254
+  },
+  {
+    "id": 549,
+    "car_make": "Nissan",
+    "car_models": "Xterra",
+    "car_year": 2012,
+    "number_of_doors": 4,
+    "hp": 469
+  },
+  {
+    "id": 550,
+    "car_make": "Plymouth",
+    "car_models": "Fury",
+    "car_year": 1964,
+    "number_of_doors": 2,
+    "hp": 438
+  },
+  {
+    "id": 551,
+    "car_make": "GMC",
+    "car_models": "1500",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 250
+  },
+  {
+    "id": 552,
+    "car_make": "Toyota",
+    "car_models": "Land Cruiser",
+    "car_year": 1999,
+    "number_of_doors": 2,
+    "hp": 242
+  },
+  {
+    "id": 553,
+    "car_make": "Mercury",
+    "car_models": "Mariner",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 382
+  },
+  {
+    "id": 554,
+    "car_make": "Mazda",
+    "car_models": "Protege",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 410
+  },
+  {
+    "id": 555,
+    "car_make": "Hyundai",
+    "car_models": "Accent",
+    "car_year": 2000,
+    "number_of_doors": 4,
+    "hp": 129
+  },
+  {
+    "id": 556,
+    "car_make": "Isuzu",
+    "car_models": "VehiCROSS",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 359
+  },
+  {
+    "id": 557,
+    "car_make": "Nissan",
+    "car_models": "GT-R",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 363
+  },
+  {
+    "id": 558,
+    "car_make": "Mercedes-Benz",
+    "car_models": "S-Class",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 183
+  },
+  {
+    "id": 559,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 62
+  },
+  {
+    "id": 560,
+    "car_make": "Toyota",
+    "car_models": "Corolla",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 199
+  },
+  {
+    "id": 561,
+    "car_make": "Ford",
+    "car_models": "F350",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 389
+  },
+  {
+    "id": 562,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 460
+  },
+  {
+    "id": 563,
+    "car_make": "Aston Martin",
+    "car_models": "DB9",
+    "car_year": 2012,
+    "number_of_doors": 4,
+    "hp": 57
+  },
+  {
+    "id": 564,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix",
+    "car_year": 1990,
+    "number_of_doors": 2,
+    "hp": 195
+  },
+  {
+    "id": 565,
+    "car_make": "Porsche",
+    "car_models": "Cayman",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 397
+  },
+  {
+    "id": 566,
+    "car_make": "Land Rover",
+    "car_models": "Discovery Series II",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 286
+  },
+  {
+    "id": 567,
+    "car_make": "Toyota",
+    "car_models": "Corolla",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 431
+  },
+  {
+    "id": 568,
+    "car_make": "Chrysler",
+    "car_models": "300",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 382
+  },
+  {
+    "id": 569,
+    "car_make": "Toyota",
+    "car_models": "4Runner",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 137
+  },
+  {
+    "id": 570,
+    "car_make": "Volkswagen",
+    "car_models": "Passat",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 277
+  },
+  {
+    "id": 571,
+    "car_make": "Pontiac",
+    "car_models": "Gemini",
+    "car_year": 1989,
+    "number_of_doors": 4,
+    "hp": 316
+  },
+  {
+    "id": 572,
+    "car_make": "Toyota",
+    "car_models": "4Runner",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 415
+  },
+  {
+    "id": 573,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado 3500",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 81
+  },
+  {
+    "id": 574,
+    "car_make": "Honda",
+    "car_models": "Ridgeline",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 169
+  },
+  {
+    "id": 575,
+    "car_make": "Volvo",
+    "car_models": "V70",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 201
+  },
+  {
+    "id": 576,
+    "car_make": "BMW",
+    "car_models": "M3",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 294
+  },
+  {
+    "id": 577,
+    "car_make": "Lamborghini",
+    "car_models": "Diablo",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 96
+  },
+  {
+    "id": 578,
+    "car_make": "Lincoln",
+    "car_models": "Town Car",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 184
+  },
+  {
+    "id": 579,
+    "car_make": "Subaru",
+    "car_models": "Legacy",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 57
+  },
+  {
+    "id": 580,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1960,
+    "number_of_doors": 4,
+    "hp": 81
+  },
+  {
+    "id": 581,
+    "car_make": "Mazda",
+    "car_models": "MX-6",
+    "car_year": 1989,
+    "number_of_doors": 5,
+    "hp": 318
+  },
+  {
+    "id": 582,
+    "car_make": "GMC",
+    "car_models": "3500 Club Coupe",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 298
+  },
+  {
+    "id": 583,
+    "car_make": "Aston Martin",
+    "car_models": "DB9",
+    "car_year": 2012,
+    "number_of_doors": 2,
+    "hp": 289
+  },
+  {
+    "id": 584,
+    "car_make": "Mazda",
+    "car_models": "626",
+    "car_year": 1987,
+    "number_of_doors": 5,
+    "hp": 486
+  },
+  {
+    "id": 585,
+    "car_make": "Suzuki",
+    "car_models": "Daewoo Magnus",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 464
+  },
+  {
+    "id": 586,
+    "car_make": "Pontiac",
+    "car_models": "Sunbird",
+    "car_year": 1991,
+    "number_of_doors": 3,
+    "hp": 440
+  },
+  {
+    "id": 587,
+    "car_make": "Lexus",
+    "car_models": "LX",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 300
+  },
+  {
+    "id": 588,
+    "car_make": "Volkswagen",
+    "car_models": "Type 2",
+    "car_year": 1991,
+    "number_of_doors": 4,
+    "hp": 433
+  },
+  {
+    "id": 589,
+    "car_make": "Infiniti",
+    "car_models": "I",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 104
+  },
+  {
+    "id": 590,
+    "car_make": "Bentley",
+    "car_models": "Continental GT",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 137
+  },
+  {
+    "id": 591,
+    "car_make": "Mazda",
+    "car_models": "626",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 429
+  },
+  {
+    "id": 592,
+    "car_make": "Isuzu",
+    "car_models": "i-Series",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 174
+  },
+  {
+    "id": 593,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 58
+  },
+  {
+    "id": 594,
+    "car_make": "Infiniti",
+    "car_models": "FX",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 357
+  },
+  {
+    "id": 595,
+    "car_make": "Cadillac",
+    "car_models": "DeVille",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 255
+  },
+  {
+    "id": 596,
+    "car_make": "Mitsubishi",
+    "car_models": "Tundra",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 331
+  },
+  {
+    "id": 597,
+    "car_make": "Cadillac",
+    "car_models": "Fleetwood",
+    "car_year": 1996,
+    "number_of_doors": 3,
+    "hp": 355
+  },
+  {
+    "id": 598,
+    "car_make": "Kia",
+    "car_models": "Spectra",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 333
+  },
+  {
+    "id": 599,
+    "car_make": "Honda",
+    "car_models": "CR-V",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 480
+  },
+  {
+    "id": 600,
+    "car_make": "Kia",
+    "car_models": "Borrego",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 406
+  },
+  {
+    "id": 601,
+    "car_make": "Dodge",
+    "car_models": "Viper",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 74
+  },
+  {
+    "id": 602,
+    "car_make": "Chevrolet",
+    "car_models": "Monte Carlo",
+    "car_year": 1973,
+    "number_of_doors": 5,
+    "hp": 100
+  },
+  {
+    "id": 603,
+    "car_make": "Chevrolet",
+    "car_models": "Suburban",
+    "car_year": 2007,
+    "number_of_doors": 2,
+    "hp": 343
+  },
+  {
+    "id": 604,
+    "car_make": "Acura",
+    "car_models": "Legend",
+    "car_year": 1994,
+    "number_of_doors": 2,
+    "hp": 482
+  },
+  {
+    "id": 605,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 220
+  },
+  {
+    "id": 606,
+    "car_make": "Nissan",
+    "car_models": "Sentra",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 435
+  },
+  {
+    "id": 607,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1957,
+    "number_of_doors": 3,
+    "hp": 480
+  },
+  {
+    "id": 608,
+    "car_make": "Pontiac",
+    "car_models": "Gemini",
+    "car_year": 1986,
+    "number_of_doors": 4,
+    "hp": 169
+  },
+  {
+    "id": 609,
+    "car_make": "Buick",
+    "car_models": "Century",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 128
+  },
+  {
+    "id": 610,
+    "car_make": "Saab",
+    "car_models": "9000",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 197
+  },
+  {
+    "id": 611,
+    "car_make": "Cadillac",
+    "car_models": "Fleetwood",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 487
+  },
+  {
+    "id": 612,
+    "car_make": "Dodge",
+    "car_models": "Avenger",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 218
+  },
+  {
+    "id": 613,
+    "car_make": "Cadillac",
+    "car_models": "Seville",
+    "car_year": 2000,
+    "number_of_doors": 2,
+    "hp": 102
+  },
+  {
+    "id": 614,
+    "car_make": "Mitsubishi",
+    "car_models": "Pajero",
+    "car_year": 1989,
+    "number_of_doors": 3,
+    "hp": 268
+  },
+  {
+    "id": 615,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 149
+  },
+  {
+    "id": 616,
+    "car_make": "Nissan",
+    "car_models": "Pathfinder Armada",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 475
+  },
+  {
+    "id": 617,
+    "car_make": "Lincoln",
+    "car_models": "MKT",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 335
+  },
+  {
+    "id": 618,
+    "car_make": "Scion",
+    "car_models": "xD",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 174
+  },
+  {
+    "id": 619,
+    "car_make": "Ford",
+    "car_models": "Mustang",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 119
+  },
+  {
+    "id": 620,
+    "car_make": "Chevrolet",
+    "car_models": "S10",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 493
+  },
+  {
+    "id": 621,
+    "car_make": "Cadillac",
+    "car_models": "DeVille",
+    "car_year": 1993,
+    "number_of_doors": 4,
+    "hp": 131
+  },
+  {
+    "id": 622,
+    "car_make": "Honda",
+    "car_models": "Odyssey",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 400
+  },
+  {
+    "id": 623,
+    "car_make": "Chevrolet",
+    "car_models": "Tahoe",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 256
+  },
+  {
+    "id": 624,
+    "car_make": "Mitsubishi",
+    "car_models": "Mighty Max",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 113
+  },
+  {
+    "id": 625,
+    "car_make": "Audi",
+    "car_models": "S5",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 81
+  },
+  {
+    "id": 626,
+    "car_make": "Chrysler",
+    "car_models": "LHS",
+    "car_year": 1994,
+    "number_of_doors": 5,
+    "hp": 466
+  },
+  {
+    "id": 627,
+    "car_make": "Chevrolet",
+    "car_models": "Impala",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 388
+  },
+  {
+    "id": 628,
+    "car_make": "Mercedes-Benz",
+    "car_models": "GL-Class",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 152
+  },
+  {
+    "id": 629,
+    "car_make": "Hyundai",
+    "car_models": "Elantra",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 221
+  },
+  {
+    "id": 630,
+    "car_make": "Dodge",
+    "car_models": "Charger",
+    "car_year": 1968,
+    "number_of_doors": 5,
+    "hp": 421
+  },
+  {
+    "id": 631,
+    "car_make": "Volkswagen",
+    "car_models": "New Beetle",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 253
+  },
+  {
+    "id": 632,
+    "car_make": "Chrysler",
+    "car_models": "300M",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 247
+  },
+  {
+    "id": 633,
+    "car_make": "BMW",
+    "car_models": "X5",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 141
+  },
+  {
+    "id": 634,
+    "car_make": "Ford",
+    "car_models": "Fusion",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 188
+  },
+  {
+    "id": 635,
+    "car_make": "Isuzu",
+    "car_models": "Trooper",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 162
+  },
+  {
+    "id": 636,
+    "car_make": "Toyota",
+    "car_models": "Tacoma",
+    "car_year": 2005,
+    "number_of_doors": 4,
+    "hp": 86
+  },
+  {
+    "id": 637,
+    "car_make": "Volvo",
+    "car_models": "V50",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 361
+  },
+  {
+    "id": 638,
+    "car_make": "Nissan",
+    "car_models": "Sentra",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 133
+  },
+  {
+    "id": 639,
+    "car_make": "Mitsubishi",
+    "car_models": "GTO",
+    "car_year": 1995,
+    "number_of_doors": 3,
+    "hp": 363
+  },
+  {
+    "id": 640,
+    "car_make": "Audi",
+    "car_models": "A8",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 413
+  },
+  {
+    "id": 641,
+    "car_make": "Buick",
+    "car_models": "Skyhawk",
+    "car_year": 1988,
+    "number_of_doors": 2,
+    "hp": 296
+  },
+  {
+    "id": 642,
+    "car_make": "Kia",
+    "car_models": "Spectra5",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 231
+  },
+  {
+    "id": 643,
+    "car_make": "Volvo",
+    "car_models": "V50",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 266
+  },
+  {
+    "id": 644,
+    "car_make": "Subaru",
+    "car_models": "Outback",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 488
+  },
+  {
+    "id": 645,
+    "car_make": "BMW",
+    "car_models": "M3",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 389
+  },
+  {
+    "id": 646,
+    "car_make": "BMW",
+    "car_models": "7 Series",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 499
+  },
+  {
+    "id": 647,
+    "car_make": "Ford",
+    "car_models": "F-Series",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 288
+  },
+  {
+    "id": 648,
+    "car_make": "Ford",
+    "car_models": "F150",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 385
+  },
+  {
+    "id": 649,
+    "car_make": "Lincoln",
+    "car_models": "Town Car",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 77
+  },
+  {
+    "id": 650,
+    "car_make": "Maserati",
+    "car_models": "Spyder",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 159
+  },
+  {
+    "id": 651,
+    "car_make": "Audi",
+    "car_models": "S8",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 180
+  },
+  {
+    "id": 652,
+    "car_make": "Mitsubishi",
+    "car_models": "Eclipse",
+    "car_year": 1995,
+    "number_of_doors": 3,
+    "hp": 219
+  },
+  {
+    "id": 653,
+    "car_make": "Mazda",
+    "car_models": "MPV",
+    "car_year": 1991,
+    "number_of_doors": 5,
+    "hp": 416
+  },
+  {
+    "id": 654,
+    "car_make": "Pontiac",
+    "car_models": "6000",
+    "car_year": 1987,
+    "number_of_doors": 3,
+    "hp": 428
+  },
+  {
+    "id": 655,
+    "car_make": "Subaru",
+    "car_models": "Impreza",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 285
+  },
+  {
+    "id": 656,
+    "car_make": "Pontiac",
+    "car_models": "LeMans",
+    "car_year": 1989,
+    "number_of_doors": 2,
+    "hp": 233
+  },
+  {
+    "id": 657,
+    "car_make": "Aston Martin",
+    "car_models": "DBS",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 492
+  },
+  {
+    "id": 658,
+    "car_make": "GMC",
+    "car_models": "Envoy",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 212
+  },
+  {
+    "id": 659,
+    "car_make": "Audi",
+    "car_models": "S6",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 385
+  },
+  {
+    "id": 660,
+    "car_make": "Infiniti",
+    "car_models": "Q",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 495
+  },
+  {
+    "id": 661,
+    "car_make": "Mercedes-Benz",
+    "car_models": "CL65 AMG",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 220
+  },
+  {
+    "id": 662,
+    "car_make": "Nissan",
+    "car_models": "Xterra",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 216
+  },
+  {
+    "id": 663,
+    "car_make": "Mitsubishi",
+    "car_models": "Montero Sport",
+    "car_year": 1997,
+    "number_of_doors": 3,
+    "hp": 56
+  },
+  {
+    "id": 664,
+    "car_make": "Nissan",
+    "car_models": "200SX",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 368
+  },
+  {
+    "id": 665,
+    "car_make": "Dodge",
+    "car_models": "Dakota Club",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 254
+  },
+  {
+    "id": 666,
+    "car_make": "Dodge",
+    "car_models": "Ram 2500",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 185
+  },
+  {
+    "id": 667,
+    "car_make": "Lincoln",
+    "car_models": "Town Car",
+    "car_year": 1994,
+    "number_of_doors": 5,
+    "hp": 413
+  },
+  {
+    "id": 668,
+    "car_make": "Saturn",
+    "car_models": "L-Series",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 89
+  },
+  {
+    "id": 669,
+    "car_make": "BMW",
+    "car_models": "7 Series",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 217
+  },
+  {
+    "id": 670,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado 2500",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 348
+  },
+  {
+    "id": 671,
+    "car_make": "Volkswagen",
+    "car_models": "GTI",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 389
+  },
+  {
+    "id": 672,
+    "car_make": "Kia",
+    "car_models": "Sephia",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 53
+  },
+  {
+    "id": 673,
+    "car_make": "Acura",
+    "car_models": "NSX",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 257
+  },
+  {
+    "id": 674,
+    "car_make": "Cadillac",
+    "car_models": "STS",
+    "car_year": 2005,
+    "number_of_doors": 4,
+    "hp": 337
+  },
+  {
+    "id": 675,
+    "car_make": "Lexus",
+    "car_models": "SC",
+    "car_year": 1998,
+    "number_of_doors": 5,
+    "hp": 383
+  },
+  {
+    "id": 676,
+    "car_make": "Kia",
+    "car_models": "Sedona",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 245
+  },
+  {
+    "id": 677,
+    "car_make": "Buick",
+    "car_models": "Riviera",
+    "car_year": 1979,
+    "number_of_doors": 2,
+    "hp": 363
+  },
+  {
+    "id": 678,
+    "car_make": "Ford",
+    "car_models": "E150",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 88
+  },
+  {
+    "id": 679,
+    "car_make": "GMC",
+    "car_models": "Sierra 1500",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 439
+  },
+  {
+    "id": 680,
+    "car_make": "Dodge",
+    "car_models": "Ram 3500",
+    "car_year": 1998,
+    "number_of_doors": 5,
+    "hp": 213
+  },
+  {
+    "id": 681,
+    "car_make": "Lexus",
+    "car_models": "LS",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 58
+  },
+  {
+    "id": 682,
+    "car_make": "Ford",
+    "car_models": "Fiesta",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 433
+  },
+  {
+    "id": 683,
+    "car_make": "Suzuki",
+    "car_models": "X-90",
+    "car_year": 1996,
+    "number_of_doors": 3,
+    "hp": 474
+  },
+  {
+    "id": 684,
+    "car_make": "Nissan",
+    "car_models": "Titan",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 94
+  },
+  {
+    "id": 685,
+    "car_make": "BMW",
+    "car_models": "X6",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 455
+  },
+  {
+    "id": 686,
+    "car_make": "Pontiac",
+    "car_models": "Grand Am",
+    "car_year": 1995,
+    "number_of_doors": 3,
+    "hp": 243
+  },
+  {
+    "id": 687,
+    "car_make": "Volkswagen",
+    "car_models": "rio",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 478
+  },
+  {
+    "id": 688,
+    "car_make": "Maserati",
+    "car_models": "Spyder",
+    "car_year": 1989,
+    "number_of_doors": 3,
+    "hp": 149
+  },
+  {
+    "id": 689,
+    "car_make": "Hyundai",
+    "car_models": "Genesis",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 331
+  },
+  {
+    "id": 690,
+    "car_make": "Buick",
+    "car_models": "Riviera",
+    "car_year": 1997,
+    "number_of_doors": 4,
+    "hp": 211
+  },
+  {
+    "id": 691,
+    "car_make": "Volkswagen",
+    "car_models": "Touareg 2",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 107
+  },
+  {
+    "id": 692,
+    "car_make": "Chevrolet",
+    "car_models": "Suburban 2500",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 430
+  },
+  {
+    "id": 693,
+    "car_make": "Ford",
+    "car_models": "Econoline E250",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 348
+  },
+  {
+    "id": 694,
+    "car_make": "Cadillac",
+    "car_models": "CTS",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 447
+  },
+  {
+    "id": 695,
+    "car_make": "Suzuki",
+    "car_models": "XL-7",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 197
+  },
+  {
+    "id": 696,
+    "car_make": "Lincoln",
+    "car_models": "Town Car",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 288
+  },
+  {
+    "id": 697,
+    "car_make": "Hummer",
+    "car_models": "H2 SUT",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 313
+  },
+  {
+    "id": 698,
+    "car_make": "Aptera",
+    "car_models": "Typ-1",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 421
+  },
+  {
+    "id": 699,
+    "car_make": "GMC",
+    "car_models": "2500",
+    "car_year": 1998,
+    "number_of_doors": 3,
+    "hp": 179
+  },
+  {
+    "id": 700,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 120
+  },
+  {
+    "id": 701,
+    "car_make": "Mercedes-Benz",
+    "car_models": "G-Class",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 416
+  },
+  {
+    "id": 702,
+    "car_make": "Acura",
+    "car_models": "ZDX",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 197
+  },
+  {
+    "id": 703,
+    "car_make": "Hummer",
+    "car_models": "H2",
+    "car_year": 2005,
+    "number_of_doors": 3,
+    "hp": 51
+  },
+  {
+    "id": 704,
+    "car_make": "Dodge",
+    "car_models": "Dakota",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 321
+  },
+  {
+    "id": 705,
+    "car_make": "Suzuki",
+    "car_models": "X-90",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 422
+  },
+  {
+    "id": 706,
+    "car_make": "Lexus",
+    "car_models": "LS",
+    "car_year": 1999,
+    "number_of_doors": 5,
+    "hp": 284
+  },
+  {
+    "id": 707,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix",
+    "car_year": 1965,
+    "number_of_doors": 3,
+    "hp": 91
+  },
+  {
+    "id": 708,
+    "car_make": "Ford",
+    "car_models": "Club Wagon",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 105
+  },
+  {
+    "id": 709,
+    "car_make": "Acura",
+    "car_models": "MDX",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 143
+  },
+  {
+    "id": 710,
+    "car_make": "Cadillac",
+    "car_models": "Escalade",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 290
+  },
+  {
+    "id": 711,
+    "car_make": "Toyota",
+    "car_models": "RAV4",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 420
+  },
+  {
+    "id": 712,
+    "car_make": "Audi",
+    "car_models": "V8",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 324
+  },
+  {
+    "id": 713,
+    "car_make": "Oldsmobile",
+    "car_models": "Alero",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 378
+  },
+  {
+    "id": 714,
+    "car_make": "Hyundai",
+    "car_models": "Tiburon",
+    "car_year": 2000,
+    "number_of_doors": 3,
+    "hp": 239
+  },
+  {
+    "id": 715,
+    "car_make": "Cadillac",
+    "car_models": "Escalade",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 175
+  },
+  {
+    "id": 716,
+    "car_make": "Jeep",
+    "car_models": "Compass",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 110
+  },
+  {
+    "id": 717,
+    "car_make": "Mazda",
+    "car_models": "Miata MX-5",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 61
+  },
+  {
+    "id": 718,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1973,
+    "number_of_doors": 4,
+    "hp": 305
+  },
+  {
+    "id": 719,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1969,
+    "number_of_doors": 5,
+    "hp": 139
+  },
+  {
+    "id": 720,
+    "car_make": "Mazda",
+    "car_models": "B-Series",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 413
+  },
+  {
+    "id": 721,
+    "car_make": "Chevrolet",
+    "car_models": "Corvette",
+    "car_year": 1964,
+    "number_of_doors": 4,
+    "hp": 488
+  },
+  {
+    "id": 722,
+    "car_make": "Chevrolet",
+    "car_models": "Impala SS",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 194
+  },
+  {
+    "id": 723,
+    "car_make": "Lincoln",
+    "car_models": "Continental Mark VII",
+    "car_year": 1988,
+    "number_of_doors": 2,
+    "hp": 367
+  },
+  {
+    "id": 724,
+    "car_make": "Cadillac",
+    "car_models": "Catera",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 417
+  },
+  {
+    "id": 725,
+    "car_make": "Volkswagen",
+    "car_models": "Jetta",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 52
+  },
+  {
+    "id": 726,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix Turbo",
+    "car_year": 1990,
+    "number_of_doors": 3,
+    "hp": 165
+  },
+  {
+    "id": 727,
+    "car_make": "GMC",
+    "car_models": "Savana 2500",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 256
+  },
+  {
+    "id": 728,
+    "car_make": "Volkswagen",
+    "car_models": "Touareg",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 72
+  },
+  {
+    "id": 729,
+    "car_make": "GMC",
+    "car_models": "Yukon",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 219
+  },
+  {
+    "id": 730,
+    "car_make": "Toyota",
+    "car_models": "4Runner",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 442
+  },
+  {
+    "id": 731,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 318
+  },
+  {
+    "id": 732,
+    "car_make": "Mitsubishi",
+    "car_models": "Eclipse",
+    "car_year": 1996,
+    "number_of_doors": 3,
+    "hp": 363
+  },
+  {
+    "id": 733,
+    "car_make": "Mercury",
+    "car_models": "Grand Marquis",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 52
+  },
+  {
+    "id": 734,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 1994,
+    "number_of_doors": 3,
+    "hp": 70
+  },
+  {
+    "id": 735,
+    "car_make": "BMW",
+    "car_models": "760",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 190
+  },
+  {
+    "id": 736,
+    "car_make": "Ford",
+    "car_models": "F-Series",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 451
+  },
+  {
+    "id": 737,
+    "car_make": "Lincoln",
+    "car_models": "MKX",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 474
+  },
+  {
+    "id": 738,
+    "car_make": "GMC",
+    "car_models": "Savana 2500",
+    "car_year": 2003,
+    "number_of_doors": 4,
+    "hp": 108
+  },
+  {
+    "id": 739,
+    "car_make": "Volkswagen",
+    "car_models": "Touareg",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 482
+  },
+  {
+    "id": 740,
+    "car_make": "Ford",
+    "car_models": "Crown Victoria",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 350
+  },
+  {
+    "id": 741,
+    "car_make": "Honda",
+    "car_models": "Passport",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 396
+  },
+  {
+    "id": 742,
+    "car_make": "Dodge",
+    "car_models": "Ram 2500 Club",
+    "car_year": 1999,
+    "number_of_doors": 4,
+    "hp": 353
+  },
+  {
+    "id": 743,
+    "car_make": "Honda",
+    "car_models": "Accord",
+    "car_year": 1997,
+    "number_of_doors": 4,
+    "hp": 128
+  },
+  {
+    "id": 744,
+    "car_make": "Toyota",
+    "car_models": "Camry Hybrid",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 182
+  },
+  {
+    "id": 745,
+    "car_make": "Mazda",
+    "car_models": "Mazda2",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 126
+  },
+  {
+    "id": 746,
+    "car_make": "Nissan",
+    "car_models": "Titan",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 497
+  },
+  {
+    "id": 747,
+    "car_make": "Ford",
+    "car_models": "F150",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 110
+  },
+  {
+    "id": 748,
+    "car_make": "Nissan",
+    "car_models": "Quest",
+    "car_year": 2008,
+    "number_of_doors": 3,
+    "hp": 419
+  },
+  {
+    "id": 749,
+    "car_make": "Dodge",
+    "car_models": "Neon",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 104
+  },
+  {
+    "id": 750,
+    "car_make": "Toyota",
+    "car_models": "Echo",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 493
+  },
+  {
+    "id": 751,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 152
+  },
+  {
+    "id": 752,
+    "car_make": "Nissan",
+    "car_models": "240SX",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 53
+  },
+  {
+    "id": 753,
+    "car_make": "Chevrolet",
+    "car_models": "Malibu",
+    "car_year": 2007,
+    "number_of_doors": 3,
+    "hp": 394
+  },
+  {
+    "id": 754,
+    "car_make": "Cadillac",
+    "car_models": "Escalade",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 346
+  },
+  {
+    "id": 755,
+    "car_make": "Ford",
+    "car_models": "Probe",
+    "car_year": 1990,
+    "number_of_doors": 4,
+    "hp": 232
+  },
+  {
+    "id": 756,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SLK-Class",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 452
+  },
+  {
+    "id": 757,
+    "car_make": "Toyota",
+    "car_models": "MR2",
+    "car_year": 1986,
+    "number_of_doors": 3,
+    "hp": 364
+  },
+  {
+    "id": 758,
+    "car_make": "Lexus",
+    "car_models": "ES",
+    "car_year": 1989,
+    "number_of_doors": 5,
+    "hp": 201
+  },
+  {
+    "id": 759,
+    "car_make": "Chevrolet",
+    "car_models": "Astro",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 366
+  },
+  {
+    "id": 760,
+    "car_make": "Dodge",
+    "car_models": "Neon",
+    "car_year": 1997,
+    "number_of_doors": 3,
+    "hp": 153
+  },
+  {
+    "id": 761,
+    "car_make": "Dodge",
+    "car_models": "Grand Caravan",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 444
+  },
+  {
+    "id": 762,
+    "car_make": "Pontiac",
+    "car_models": "Bonneville",
+    "car_year": 1985,
+    "number_of_doors": 3,
+    "hp": 388
+  },
+  {
+    "id": 763,
+    "car_make": "Acura",
+    "car_models": "Integra",
+    "car_year": 1994,
+    "number_of_doors": 2,
+    "hp": 188
+  },
+  {
+    "id": 764,
+    "car_make": "GMC",
+    "car_models": "Vandura 3500",
+    "car_year": 1992,
+    "number_of_doors": 5,
+    "hp": 140
+  },
+  {
+    "id": 765,
+    "car_make": "BMW",
+    "car_models": "750",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 131
+  },
+  {
+    "id": 766,
+    "car_make": "Toyota",
+    "car_models": "MR2",
+    "car_year": 1985,
+    "number_of_doors": 3,
+    "hp": 80
+  },
+  {
+    "id": 767,
+    "car_make": "Ford",
+    "car_models": "Taurus",
+    "car_year": 2013,
+    "number_of_doors": 3,
+    "hp": 469
+  },
+  {
+    "id": 768,
+    "car_make": "Porsche",
+    "car_models": "911",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 138
+  },
+  {
+    "id": 769,
+    "car_make": "Maserati",
+    "car_models": "Gran Sport",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 329
+  },
+  {
+    "id": 770,
+    "car_make": "Jaguar",
+    "car_models": "XJ Series",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 199
+  },
+  {
+    "id": 771,
+    "car_make": "Dodge",
+    "car_models": "Stratus",
+    "car_year": 1999,
+    "number_of_doors": 2,
+    "hp": 154
+  },
+  {
+    "id": 772,
+    "car_make": "Honda",
+    "car_models": "Accord",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 410
+  },
+  {
+    "id": 773,
+    "car_make": "Mercury",
+    "car_models": "Sable",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 430
+  },
+  {
+    "id": 774,
+    "car_make": "Dodge",
+    "car_models": "Viper RT/10",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 219
+  },
+  {
+    "id": 775,
+    "car_make": "Chevrolet",
+    "car_models": "2500",
+    "car_year": 1998,
+    "number_of_doors": 5,
+    "hp": 284
+  },
+  {
+    "id": 776,
+    "car_make": "Volkswagen",
+    "car_models": "Jetta",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 413
+  },
+  {
+    "id": 777,
+    "car_make": "Toyota",
+    "car_models": "Tacoma",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 365
+  },
+  {
+    "id": 778,
+    "car_make": "Saturn",
+    "car_models": "Aura",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 190
+  },
+  {
+    "id": 779,
+    "car_make": "Toyota",
+    "car_models": "Corolla",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 85
+  },
+  {
+    "id": 780,
+    "car_make": "Honda",
+    "car_models": "CR-V",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 88
+  },
+  {
+    "id": 781,
+    "car_make": "Honda",
+    "car_models": "Prelude",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 81
+  },
+  {
+    "id": 782,
+    "car_make": "Dodge",
+    "car_models": "Intrepid",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 270
+  },
+  {
+    "id": 783,
+    "car_make": "Mazda",
+    "car_models": "RX-7",
+    "car_year": 1994,
+    "number_of_doors": 3,
+    "hp": 475
+  },
+  {
+    "id": 784,
+    "car_make": "Acura",
+    "car_models": "NSX",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 118
+  },
+  {
+    "id": 785,
+    "car_make": "Lamborghini",
+    "car_models": "Countach",
+    "car_year": 1989,
+    "number_of_doors": 5,
+    "hp": 238
+  },
+  {
+    "id": 786,
+    "car_make": "Subaru",
+    "car_models": "Tribeca",
+    "car_year": 2006,
+    "number_of_doors": 5,
+    "hp": 323
+  },
+  {
+    "id": 787,
+    "car_make": "GMC",
+    "car_models": "Sierra 3500",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 112
+  },
+  {
+    "id": 788,
+    "car_make": "Infiniti",
+    "car_models": "QX",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 201
+  },
+  {
+    "id": 789,
+    "car_make": "Land Rover",
+    "car_models": "Sterling",
+    "car_year": 1991,
+    "number_of_doors": 5,
+    "hp": 323
+  },
+  {
+    "id": 790,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SL-Class",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 482
+  },
+  {
+    "id": 791,
+    "car_make": "Jaguar",
+    "car_models": "S-Type",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 313
+  },
+  {
+    "id": 792,
+    "car_make": "Honda",
+    "car_models": "CR-Z",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 277
+  },
+  {
+    "id": 793,
+    "car_make": "GMC",
+    "car_models": "Suburban 2500",
+    "car_year": 1998,
+    "number_of_doors": 5,
+    "hp": 54
+  },
+  {
+    "id": 794,
+    "car_make": "Chevrolet",
+    "car_models": "G-Series G20",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 404
+  },
+  {
+    "id": 795,
+    "car_make": "Mercury",
+    "car_models": "Cougar",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 162
+  },
+  {
+    "id": 796,
+    "car_make": "Subaru",
+    "car_models": "Baja",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 344
+  },
+  {
+    "id": 797,
+    "car_make": "Lexus",
+    "car_models": "GS",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 376
+  },
+  {
+    "id": 798,
+    "car_make": "Saab",
+    "car_models": "9-3",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 396
+  },
+  {
+    "id": 799,
+    "car_make": "Suzuki",
+    "car_models": "Aerio",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 271
+  },
+  {
+    "id": 800,
+    "car_make": "Mazda",
+    "car_models": "MX-6",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 127
+  },
+  {
+    "id": 801,
+    "car_make": "Lexus",
+    "car_models": "RX",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 96
+  },
+  {
+    "id": 802,
+    "car_make": "Bentley",
+    "car_models": "Continental GT",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 69
+  },
+  {
+    "id": 803,
+    "car_make": "Kia",
+    "car_models": "Sorento",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 201
+  },
+  {
+    "id": 804,
+    "car_make": "Toyota",
+    "car_models": "Highlander",
+    "car_year": 2009,
+    "number_of_doors": 5,
+    "hp": 486
+  },
+  {
+    "id": 805,
+    "car_make": "Chevrolet",
+    "car_models": "Tracker",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 346
+  },
+  {
+    "id": 806,
+    "car_make": "Chevrolet",
+    "car_models": "TrailBlazer",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 485
+  },
+  {
+    "id": 807,
+    "car_make": "Saab",
+    "car_models": "900",
+    "car_year": 1984,
+    "number_of_doors": 5,
+    "hp": 317
+  },
+  {
+    "id": 808,
+    "car_make": "Porsche",
+    "car_models": "Cayman",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 167
+  },
+  {
+    "id": 809,
+    "car_make": "Volkswagen",
+    "car_models": "Passat",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 157
+  },
+  {
+    "id": 810,
+    "car_make": "Suzuki",
+    "car_models": "Forenza",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 302
+  },
+  {
+    "id": 811,
+    "car_make": "Volkswagen",
+    "car_models": "Eurovan",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 207
+  },
+  {
+    "id": 812,
+    "car_make": "Audi",
+    "car_models": "S4",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 479
+  },
+  {
+    "id": 813,
+    "car_make": "Mercury",
+    "car_models": "Mountaineer",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 474
+  },
+  {
+    "id": 814,
+    "car_make": "Volkswagen",
+    "car_models": "Jetta",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 474
+  },
+  {
+    "id": 815,
+    "car_make": "Honda",
+    "car_models": "Insight",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 240
+  },
+  {
+    "id": 816,
+    "car_make": "Toyota",
+    "car_models": "Matrix",
+    "car_year": 2011,
+    "number_of_doors": 4,
+    "hp": 59
+  },
+  {
+    "id": 817,
+    "car_make": "Toyota",
+    "car_models": "Camry",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 484
+  },
+  {
+    "id": 818,
+    "car_make": "Mazda",
+    "car_models": "Millenia",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 385
+  },
+  {
+    "id": 819,
+    "car_make": "Porsche",
+    "car_models": "Boxster",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 304
+  },
+  {
+    "id": 820,
+    "car_make": "Jeep",
+    "car_models": "Patriot",
+    "car_year": 2007,
+    "number_of_doors": 2,
+    "hp": 109
+  },
+  {
+    "id": 821,
+    "car_make": "Ford",
+    "car_models": "Crown Victoria",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 217
+  },
+  {
+    "id": 822,
+    "car_make": "Dodge",
+    "car_models": "Dakota Club",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 104
+  },
+  {
+    "id": 823,
+    "car_make": "GMC",
+    "car_models": "Jimmy",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 488
+  },
+  {
+    "id": 824,
+    "car_make": "Hyundai",
+    "car_models": "HED-5",
+    "car_year": 2012,
+    "number_of_doors": 4,
+    "hp": 365
+  },
+  {
+    "id": 825,
+    "car_make": "Ford",
+    "car_models": "Econoline E250",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 197
+  },
+  {
+    "id": 826,
+    "car_make": "Lamborghini",
+    "car_models": "Gallardo",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 425
+  },
+  {
+    "id": 827,
+    "car_make": "Cadillac",
+    "car_models": "DeVille",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 376
+  },
+  {
+    "id": 828,
+    "car_make": "Mitsubishi",
+    "car_models": "Outlander",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 218
+  },
+  {
+    "id": 829,
+    "car_make": "Land Rover",
+    "car_models": "Discovery",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 249
+  },
+  {
+    "id": 830,
+    "car_make": "Isuzu",
+    "car_models": "Hombre Space",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 355
+  },
+  {
+    "id": 831,
+    "car_make": "Volkswagen",
+    "car_models": "Eos",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 246
+  },
+  {
+    "id": 832,
+    "car_make": "Mercedes-Benz",
+    "car_models": "E-Class",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 129
+  },
+  {
+    "id": 833,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 225
+  },
+  {
+    "id": 834,
+    "car_make": "Ford",
+    "car_models": "F150",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 55
+  },
+  {
+    "id": 835,
+    "car_make": "Lexus",
+    "car_models": "LS",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 380
+  },
+  {
+    "id": 836,
+    "car_make": "Mercedes-Benz",
+    "car_models": "GL-Class",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 338
+  },
+  {
+    "id": 837,
+    "car_make": "Volkswagen",
+    "car_models": "Jetta",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 367
+  },
+  {
+    "id": 838,
+    "car_make": "Mitsubishi",
+    "car_models": "Pajero",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 443
+  },
+  {
+    "id": 839,
+    "car_make": "Chrysler",
+    "car_models": "Pacifica",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 417
+  },
+  {
+    "id": 840,
+    "car_make": "Toyota",
+    "car_models": "4Runner",
+    "car_year": 1997,
+    "number_of_doors": 2,
+    "hp": 241
+  },
+  {
+    "id": 841,
+    "car_make": "Dodge",
+    "car_models": "Caravan",
+    "car_year": 1997,
+    "number_of_doors": 5,
+    "hp": 131
+  },
+  {
+    "id": 842,
+    "car_make": "Maserati",
+    "car_models": "Quattroporte",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 399
+  },
+  {
+    "id": 843,
+    "car_make": "Ford",
+    "car_models": "EXP",
+    "car_year": 1985,
+    "number_of_doors": 5,
+    "hp": 486
+  },
+  {
+    "id": 844,
+    "car_make": "Chevrolet",
+    "car_models": "Camaro",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 457
+  },
+  {
+    "id": 845,
+    "car_make": "Buick",
+    "car_models": "Riviera",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 358
+  },
+  {
+    "id": 846,
+    "car_make": "Kia",
+    "car_models": "Sportage",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 395
+  },
+  {
+    "id": 847,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 52
+  },
+  {
+    "id": 848,
+    "car_make": "Volkswagen",
+    "car_models": "Golf",
+    "car_year": 1998,
+    "number_of_doors": 3,
+    "hp": 416
+  },
+  {
+    "id": 849,
+    "car_make": "Geo",
+    "car_models": "Metro",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 258
+  },
+  {
+    "id": 850,
+    "car_make": "Suzuki",
+    "car_models": "X-90",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 189
+  },
+  {
+    "id": 851,
+    "car_make": "Nissan",
+    "car_models": "Rogue",
+    "car_year": 2012,
+    "number_of_doors": 4,
+    "hp": 126
+  },
+  {
+    "id": 852,
+    "car_make": "Jeep",
+    "car_models": "Patriot",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 246
+  },
+  {
+    "id": 853,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix",
+    "car_year": 1962,
+    "number_of_doors": 3,
+    "hp": 459
+  },
+  {
+    "id": 854,
+    "car_make": "Ford",
+    "car_models": "Thunderbird",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 366
+  },
+  {
+    "id": 855,
+    "car_make": "Ford",
+    "car_models": "Explorer Sport Trac",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 51
+  },
+  {
+    "id": 856,
+    "car_make": "Nissan",
+    "car_models": "Maxima",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 440
+  },
+  {
+    "id": 857,
+    "car_make": "Audi",
+    "car_models": "S4",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 135
+  },
+  {
+    "id": 858,
+    "car_make": "Chevrolet",
+    "car_models": "Express 2500",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 235
+  },
+  {
+    "id": 859,
+    "car_make": "Dodge",
+    "car_models": "Daytona",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 385
+  },
+  {
+    "id": 860,
+    "car_make": "Honda",
+    "car_models": "Insight",
+    "car_year": 2005,
+    "number_of_doors": 4,
+    "hp": 332
+  },
+  {
+    "id": 861,
+    "car_make": "Aston Martin",
+    "car_models": "DB9",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 157
+  },
+  {
+    "id": 862,
+    "car_make": "Toyota",
+    "car_models": "Tacoma Xtra",
+    "car_year": 2001,
+    "number_of_doors": 2,
+    "hp": 250
+  },
+  {
+    "id": 863,
+    "car_make": "Acura",
+    "car_models": "NSX",
+    "car_year": 1994,
+    "number_of_doors": 3,
+    "hp": 233
+  },
+  {
+    "id": 864,
+    "car_make": "Mercury",
+    "car_models": "Sable",
+    "car_year": 2003,
+    "number_of_doors": 5,
+    "hp": 304
+  },
+  {
+    "id": 865,
+    "car_make": "Chevrolet",
+    "car_models": "Caprice",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 244
+  },
+  {
+    "id": 866,
+    "car_make": "Jeep",
+    "car_models": "Liberty",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 221
+  },
+  {
+    "id": 867,
+    "car_make": "Nissan",
+    "car_models": "Rogue",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 233
+  },
+  {
+    "id": 868,
+    "car_make": "Cadillac",
+    "car_models": "Brougham",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 441
+  },
+  {
+    "id": 869,
+    "car_make": "Subaru",
+    "car_models": "Brat",
+    "car_year": 1985,
+    "number_of_doors": 2,
+    "hp": 370
+  },
+  {
+    "id": 870,
+    "car_make": "Lotus",
+    "car_models": "Esprit",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 313
+  },
+  {
+    "id": 871,
+    "car_make": "Mercury",
+    "car_models": "Tracer",
+    "car_year": 1994,
+    "number_of_doors": 4,
+    "hp": 123
+  },
+  {
+    "id": 872,
+    "car_make": "Lincoln",
+    "car_models": "Continental Mark VII",
+    "car_year": 1988,
+    "number_of_doors": 5,
+    "hp": 352
+  },
+  {
+    "id": 873,
+    "car_make": "Hyundai",
+    "car_models": "Tiburon",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 414
+  },
+  {
+    "id": 874,
+    "car_make": "Toyota",
+    "car_models": "MR2",
+    "car_year": 1995,
+    "number_of_doors": 2,
+    "hp": 261
+  },
+  {
+    "id": 875,
+    "car_make": "Geo",
+    "car_models": "Storm",
+    "car_year": 1992,
+    "number_of_doors": 3,
+    "hp": 355
+  },
+  {
+    "id": 876,
+    "car_make": "Suzuki",
+    "car_models": "Aerio",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 338
+  },
+  {
+    "id": 877,
+    "car_make": "Jeep",
+    "car_models": "Grand Cherokee",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 314
+  },
+  {
+    "id": 878,
+    "car_make": "Chevrolet",
+    "car_models": "Impala",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 370
+  },
+  {
+    "id": 879,
+    "car_make": "Mitsubishi",
+    "car_models": "Galant",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 473
+  },
+  {
+    "id": 880,
+    "car_make": "BMW",
+    "car_models": "7 Series",
+    "car_year": 2000,
+    "number_of_doors": 4,
+    "hp": 345
+  },
+  {
+    "id": 881,
+    "car_make": "Chevrolet",
+    "car_models": "Tracker",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 459
+  },
+  {
+    "id": 882,
+    "car_make": "Nissan",
+    "car_models": "Maxima",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 222
+  },
+  {
+    "id": 883,
+    "car_make": "Mitsubishi",
+    "car_models": "Mighty Max",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 320
+  },
+  {
+    "id": 884,
+    "car_make": "Ford",
+    "car_models": "Tempo",
+    "car_year": 1989,
+    "number_of_doors": 3,
+    "hp": 304
+  },
+  {
+    "id": 885,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado 1500",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 108
+  },
+  {
+    "id": 886,
+    "car_make": "Infiniti",
+    "car_models": "G",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 264
+  },
+  {
+    "id": 887,
+    "car_make": "Aston Martin",
+    "car_models": "Vantage",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 493
+  },
+  {
+    "id": 888,
+    "car_make": "Nissan",
+    "car_models": "Xterra",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 186
+  },
+  {
+    "id": 889,
+    "car_make": "MINI",
+    "car_models": "Countryman",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 301
+  },
+  {
+    "id": 890,
+    "car_make": "Honda",
+    "car_models": "Odyssey",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 477
+  },
+  {
+    "id": 891,
+    "car_make": "Rolls-Royce",
+    "car_models": "Ghost",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 376
+  },
+  {
+    "id": 892,
+    "car_make": "Chevrolet",
+    "car_models": "Express 2500",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 73
+  },
+  {
+    "id": 893,
+    "car_make": "Buick",
+    "car_models": "LeSabre",
+    "car_year": 2004,
+    "number_of_doors": 4,
+    "hp": 421
+  },
+  {
+    "id": 894,
+    "car_make": "Cadillac",
+    "car_models": "CTS-V",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 355
+  },
+  {
+    "id": 895,
+    "car_make": "Mitsubishi",
+    "car_models": "Truck",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 237
+  },
+  {
+    "id": 896,
+    "car_make": "Cadillac",
+    "car_models": "Fleetwood",
+    "car_year": 1994,
+    "number_of_doors": 5,
+    "hp": 462
+  },
+  {
+    "id": 897,
+    "car_make": "Toyota",
+    "car_models": "Echo",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 80
+  },
+  {
+    "id": 898,
+    "car_make": "Mercury",
+    "car_models": "Cougar",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 289
+  },
+  {
+    "id": 899,
+    "car_make": "Toyota",
+    "car_models": "Highlander Hybrid",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 183
+  },
+  {
+    "id": 900,
+    "car_make": "Plymouth",
+    "car_models": "Acclaim",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 402
+  },
+  {
+    "id": 901,
+    "car_make": "Dodge",
+    "car_models": "Nitro",
+    "car_year": 2008,
+    "number_of_doors": 5,
+    "hp": 443
+  },
+  {
+    "id": 902,
+    "car_make": "Ford",
+    "car_models": "Econoline E150",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 391
+  },
+  {
+    "id": 903,
+    "car_make": "Volvo",
+    "car_models": "960",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 248
+  },
+  {
+    "id": 904,
+    "car_make": "Cadillac",
+    "car_models": "DTS",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 457
+  },
+  {
+    "id": 905,
+    "car_make": "Mercedes-Benz",
+    "car_models": "S-Class",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 120
+  },
+  {
+    "id": 906,
+    "car_make": "GMC",
+    "car_models": "Sierra 3500",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 163
+  },
+  {
+    "id": 907,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 1994,
+    "number_of_doors": 3,
+    "hp": 242
+  },
+  {
+    "id": 908,
+    "car_make": "Suzuki",
+    "car_models": "Aerio",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 284
+  },
+  {
+    "id": 909,
+    "car_make": "Ford",
+    "car_models": "Explorer Sport Trac",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 308
+  },
+  {
+    "id": 910,
+    "car_make": "Mazda",
+    "car_models": "Miata MX-5",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 419
+  },
+  {
+    "id": 911,
+    "car_make": "Aston Martin",
+    "car_models": "Virage",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 165
+  },
+  {
+    "id": 912,
+    "car_make": "Daewoo",
+    "car_models": "Leganza",
+    "car_year": 2001,
+    "number_of_doors": 5,
+    "hp": 391
+  },
+  {
+    "id": 913,
+    "car_make": "Land Rover",
+    "car_models": "Defender Ice Edition",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 498
+  },
+  {
+    "id": 914,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SL-Class",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 137
+  },
+  {
+    "id": 915,
+    "car_make": "Oldsmobile",
+    "car_models": "Toronado",
+    "car_year": 1966,
+    "number_of_doors": 5,
+    "hp": 291
+  },
+  {
+    "id": 916,
+    "car_make": "Saab",
+    "car_models": "9000",
+    "car_year": 1995,
+    "number_of_doors": 5,
+    "hp": 341
+  },
+  {
+    "id": 917,
+    "car_make": "Nissan",
+    "car_models": "Frontier",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 292
+  },
+  {
+    "id": 918,
+    "car_make": "Mazda",
+    "car_models": "MX-5",
+    "car_year": 2002,
+    "number_of_doors": 2,
+    "hp": 262
+  },
+  {
+    "id": 919,
+    "car_make": "BMW",
+    "car_models": "650",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 144
+  },
+  {
+    "id": 920,
+    "car_make": "Dodge",
+    "car_models": "D350",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 433
+  },
+  {
+    "id": 921,
+    "car_make": "Audi",
+    "car_models": "90",
+    "car_year": 1991,
+    "number_of_doors": 2,
+    "hp": 405
+  },
+  {
+    "id": 922,
+    "car_make": "Scion",
+    "car_models": "FR-S",
+    "car_year": 2013,
+    "number_of_doors": 3,
+    "hp": 394
+  },
+  {
+    "id": 923,
+    "car_make": "Maybach",
+    "car_models": "62",
+    "car_year": 2007,
+    "number_of_doors": 2,
+    "hp": 382
+  },
+  {
+    "id": 924,
+    "car_make": "Honda",
+    "car_models": "Pilot",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 67
+  },
+  {
+    "id": 925,
+    "car_make": "Dodge",
+    "car_models": "Dakota",
+    "car_year": 1996,
+    "number_of_doors": 5,
+    "hp": 458
+  },
+  {
+    "id": 926,
+    "car_make": "Jeep",
+    "car_models": "Commander",
+    "car_year": 2010,
+    "number_of_doors": 5,
+    "hp": 293
+  },
+  {
+    "id": 927,
+    "car_make": "Maybach",
+    "car_models": "62",
+    "car_year": 2012,
+    "number_of_doors": 3,
+    "hp": 234
+  },
+  {
+    "id": 928,
+    "car_make": "Isuzu",
+    "car_models": "Oasis",
+    "car_year": 1996,
+    "number_of_doors": 4,
+    "hp": 69
+  },
+  {
+    "id": 929,
+    "car_make": "Ford",
+    "car_models": "Th!nk",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 303
+  },
+  {
+    "id": 930,
+    "car_make": "Volkswagen",
+    "car_models": "GTI",
+    "car_year": 2003,
+    "number_of_doors": 2,
+    "hp": 156
+  },
+  {
+    "id": 931,
+    "car_make": "GMC",
+    "car_models": "1500",
+    "car_year": 1992,
+    "number_of_doors": 4,
+    "hp": 76
+  },
+  {
+    "id": 932,
+    "car_make": "Buick",
+    "car_models": "Century",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 139
+  },
+  {
+    "id": 933,
+    "car_make": "Dodge",
+    "car_models": "Durango",
+    "car_year": 2008,
+    "number_of_doors": 2,
+    "hp": 376
+  },
+  {
+    "id": 934,
+    "car_make": "Dodge",
+    "car_models": "Dakota",
+    "car_year": 2001,
+    "number_of_doors": 4,
+    "hp": 267
+  },
+  {
+    "id": 935,
+    "car_make": "Jaguar",
+    "car_models": "XK Series",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 383
+  },
+  {
+    "id": 936,
+    "car_make": "Ford",
+    "car_models": "Mustang",
+    "car_year": 2002,
+    "number_of_doors": 3,
+    "hp": 370
+  },
+  {
+    "id": 937,
+    "car_make": "Toyota",
+    "car_models": "Matrix",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 487
+  },
+  {
+    "id": 938,
+    "car_make": "Chevrolet",
+    "car_models": "Silverado 1500",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 452
+  },
+  {
+    "id": 939,
+    "car_make": "GMC",
+    "car_models": "Vandura 3500",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 453
+  },
+  {
+    "id": 940,
+    "car_make": "Toyota",
+    "car_models": "Land Cruiser",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 477
+  },
+  {
+    "id": 941,
+    "car_make": "Lamborghini",
+    "car_models": "Gallardo",
+    "car_year": 2003,
+    "number_of_doors": 3,
+    "hp": 147
+  },
+  {
+    "id": 942,
+    "car_make": "Eagle",
+    "car_models": "Vision",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 243
+  },
+  {
+    "id": 943,
+    "car_make": "Dodge",
+    "car_models": "D250 Club",
+    "car_year": 1993,
+    "number_of_doors": 3,
+    "hp": 222
+  },
+  {
+    "id": 944,
+    "car_make": "Lotus",
+    "car_models": "Exige",
+    "car_year": 2006,
+    "number_of_doors": 2,
+    "hp": 419
+  },
+  {
+    "id": 945,
+    "car_make": "Lotus",
+    "car_models": "Esprit",
+    "car_year": 1992,
+    "number_of_doors": 2,
+    "hp": 443
+  },
+  {
+    "id": 946,
+    "car_make": "Nissan",
+    "car_models": "Sentra",
+    "car_year": 1999,
+    "number_of_doors": 4,
+    "hp": 339
+  },
+  {
+    "id": 947,
+    "car_make": "Maserati",
+    "car_models": "Spyder",
+    "car_year": 1991,
+    "number_of_doors": 5,
+    "hp": 267
+  },
+  {
+    "id": 948,
+    "car_make": "Bentley",
+    "car_models": "Continental Super",
+    "car_year": 2010,
+    "number_of_doors": 2,
+    "hp": 57
+  },
+  {
+    "id": 949,
+    "car_make": "Lincoln",
+    "car_models": "Navigator L",
+    "car_year": 2012,
+    "number_of_doors": 5,
+    "hp": 63
+  },
+  {
+    "id": 950,
+    "car_make": "Mercedes-Benz",
+    "car_models": "SLK-Class",
+    "car_year": 1999,
+    "number_of_doors": 3,
+    "hp": 265
+  },
+  {
+    "id": 951,
+    "car_make": "Ford",
+    "car_models": "Aerostar",
+    "car_year": 1993,
+    "number_of_doors": 5,
+    "hp": 437
+  },
+  {
+    "id": 952,
+    "car_make": "Mercury",
+    "car_models": "Tracer",
+    "car_year": 1998,
+    "number_of_doors": 3,
+    "hp": 495
+  },
+  {
+    "id": 953,
+    "car_make": "Chevrolet",
+    "car_models": "Cobalt",
+    "car_year": 2009,
+    "number_of_doors": 3,
+    "hp": 174
+  },
+  {
+    "id": 954,
+    "car_make": "Mercury",
+    "car_models": "Mountaineer",
+    "car_year": 2001,
+    "number_of_doors": 3,
+    "hp": 69
+  },
+  {
+    "id": 955,
+    "car_make": "Dodge",
+    "car_models": "Grand Caravan",
+    "car_year": 1995,
+    "number_of_doors": 4,
+    "hp": 254
+  },
+  {
+    "id": 956,
+    "car_make": "Honda",
+    "car_models": "Civic",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 491
+  },
+  {
+    "id": 957,
+    "car_make": "Acura",
+    "car_models": "TSX",
+    "car_year": 2011,
+    "number_of_doors": 2,
+    "hp": 160
+  },
+  {
+    "id": 958,
+    "car_make": "Plymouth",
+    "car_models": "Breeze",
+    "car_year": 1999,
+    "number_of_doors": 2,
+    "hp": 182
+  },
+  {
+    "id": 959,
+    "car_make": "Subaru",
+    "car_models": "Legacy",
+    "car_year": 2002,
+    "number_of_doors": 4,
+    "hp": 431
+  },
+  {
+    "id": 960,
+    "car_make": "Honda",
+    "car_models": "CR-X",
+    "car_year": 1984,
+    "number_of_doors": 5,
+    "hp": 209
+  },
+  {
+    "id": 961,
+    "car_make": "GMC",
+    "car_models": "Envoy",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 412
+  },
+  {
+    "id": 962,
+    "car_make": "Pontiac",
+    "car_models": "GTO",
+    "car_year": 1968,
+    "number_of_doors": 4,
+    "hp": 432
+  },
+  {
+    "id": 963,
+    "car_make": "Jeep",
+    "car_models": "Grand Cherokee",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 292
+  },
+  {
+    "id": 964,
+    "car_make": "Chevrolet",
+    "car_models": "Suburban 2500",
+    "car_year": 2010,
+    "number_of_doors": 3,
+    "hp": 313
+  },
+  {
+    "id": 965,
+    "car_make": "GMC",
+    "car_models": "Savana 1500",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 138
+  },
+  {
+    "id": 966,
+    "car_make": "Mitsubishi",
+    "car_models": "Challenger",
+    "car_year": 1997,
+    "number_of_doors": 3,
+    "hp": 267
+  },
+  {
+    "id": 967,
+    "car_make": "Mitsubishi",
+    "car_models": "Outlander",
+    "car_year": 2005,
+    "number_of_doors": 2,
+    "hp": 229
+  },
+  {
+    "id": 968,
+    "car_make": "Porsche",
+    "car_models": "Carrera GT",
+    "car_year": 2004,
+    "number_of_doors": 3,
+    "hp": 477
+  },
+  {
+    "id": 969,
+    "car_make": "Ford",
+    "car_models": "Escort",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 411
+  },
+  {
+    "id": 970,
+    "car_make": "Saab",
+    "car_models": "900",
+    "car_year": 1986,
+    "number_of_doors": 3,
+    "hp": 325
+  },
+  {
+    "id": 971,
+    "car_make": "Chevrolet",
+    "car_models": "Express",
+    "car_year": 2007,
+    "number_of_doors": 5,
+    "hp": 427
+  },
+  {
+    "id": 972,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 1998,
+    "number_of_doors": 4,
+    "hp": 258
+  },
+  {
+    "id": 973,
+    "car_make": "Mazda",
+    "car_models": "Mazda3",
+    "car_year": 2005,
+    "number_of_doors": 5,
+    "hp": 262
+  },
+  {
+    "id": 974,
+    "car_make": "Ford",
+    "car_models": "E-Series",
+    "car_year": 2009,
+    "number_of_doors": 4,
+    "hp": 485
+  },
+  {
+    "id": 975,
+    "car_make": "Kia",
+    "car_models": "Rio",
+    "car_year": 2010,
+    "number_of_doors": 4,
+    "hp": 224
+  },
+  {
+    "id": 976,
+    "car_make": "Mazda",
+    "car_models": "B-Series",
+    "car_year": 1992,
+    "number_of_doors": 4,
+    "hp": 210
+  },
+  {
+    "id": 977,
+    "car_make": "Dodge",
+    "car_models": "Ram 3500",
+    "car_year": 2009,
+    "number_of_doors": 2,
+    "hp": 278
+  },
+  {
+    "id": 978,
+    "car_make": "Infiniti",
+    "car_models": "M",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 454
+  },
+  {
+    "id": 979,
+    "car_make": "Ford",
+    "car_models": "Econoline E350",
+    "car_year": 2002,
+    "number_of_doors": 5,
+    "hp": 145
+  },
+  {
+    "id": 980,
+    "car_make": "Pontiac",
+    "car_models": "Grand Prix",
+    "car_year": 1990,
+    "number_of_doors": 4,
+    "hp": 416
+  },
+  {
+    "id": 981,
+    "car_make": "Kia",
+    "car_models": "Rio",
+    "car_year": 2011,
+    "number_of_doors": 5,
+    "hp": 175
+  },
+  {
+    "id": 982,
+    "car_make": "GMC",
+    "car_models": "Safari",
+    "car_year": 1994,
+    "number_of_doors": 3,
+    "hp": 460
+  },
+  {
+    "id": 983,
+    "car_make": "Mitsubishi",
+    "car_models": "Lancer Evolution",
+    "car_year": 2008,
+    "number_of_doors": 4,
+    "hp": 378
+  },
+  {
+    "id": 984,
+    "car_make": "Ford",
+    "car_models": "F150",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 66
+  },
+  {
+    "id": 985,
+    "car_make": "Infiniti",
+    "car_models": "G35",
+    "car_year": 2007,
+    "number_of_doors": 4,
+    "hp": 279
+  },
+  {
+    "id": 986,
+    "car_make": "Toyota",
+    "car_models": "Celica",
+    "car_year": 1983,
+    "number_of_doors": 5,
+    "hp": 419
+  },
+  {
+    "id": 987,
+    "car_make": "Volkswagen",
+    "car_models": "Jetta",
+    "car_year": 1995,
+    "number_of_doors": 4,
+    "hp": 418
+  },
+  {
+    "id": 988,
+    "car_make": "Hyundai",
+    "car_models": "Elantra",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 235
+  },
+  {
+    "id": 989,
+    "car_make": "BMW",
+    "car_models": "545",
+    "car_year": 2004,
+    "number_of_doors": 5,
+    "hp": 188
+  },
+  {
+    "id": 990,
+    "car_make": "Oldsmobile",
+    "car_models": "Silhouette",
+    "car_year": 1996,
+    "number_of_doors": 2,
+    "hp": 467
+  },
+  {
+    "id": 991,
+    "car_make": "Chevrolet",
+    "car_models": "3500",
+    "car_year": 1997,
+    "number_of_doors": 4,
+    "hp": 77
+  },
+  {
+    "id": 992,
+    "car_make": "Mazda",
+    "car_models": "B-Series",
+    "car_year": 2006,
+    "number_of_doors": 4,
+    "hp": 458
+  },
+  {
+    "id": 993,
+    "car_make": "Audi",
+    "car_models": "Allroad",
+    "car_year": 2004,
+    "number_of_doors": 2,
+    "hp": 235
+  },
+  {
+    "id": 994,
+    "car_make": "Pontiac",
+    "car_models": "Grand Am",
+    "car_year": 1993,
+    "number_of_doors": 2,
+    "hp": 416
+  },
+  {
+    "id": 995,
+    "car_make": "Ford",
+    "car_models": "E250",
+    "car_year": 2011,
+    "number_of_doors": 3,
+    "hp": 255
+  },
+  {
+    "id": 996,
+    "car_make": "Chrysler",
+    "car_models": "Town & Country",
+    "car_year": 1998,
+    "number_of_doors": 3,
+    "hp": 472
+  },
+  {
+    "id": 997,
+    "car_make": "Land Rover",
+    "car_models": "Range Rover",
+    "car_year": 2006,
+    "number_of_doors": 3,
+    "hp": 114
+  },
+  {
+    "id": 998,
+    "car_make": "Mazda",
+    "car_models": "MPV",
+    "car_year": 1998,
+    "number_of_doors": 3,
+    "hp": 493
+  },
+  {
+    "id": 999,
+    "car_make": "Lexus",
+    "car_models": "ES",
+    "car_year": 2000,
+    "number_of_doors": 5,
+    "hp": 151
+  },
+  {
+    "id": 1000,
+    "car_make": "Isuzu",
+    "car_models": "Trooper",
+    "car_year": 1998,
+    "number_of_doors": 2,
+    "hp": 456
+  }
+]
